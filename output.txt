@@ -1,0 +1,1789 @@
+make,model,year,mileage,hp,gear,fuel,price
+Volkswagen,up,2019,31997,60,manual,gasoline,10190
+Volkswagen,Polo,2022,100,95,manual,gasoline,24390
+Volkswagen,Golf,2019,44607,116,manual,diesel,18630
+Volkswagen,Tiguan,2019,42934,150,automatic,diesel,29990
+Volkswagen,T6 Multivan,2021,10645,204,automatic,diesel,44850
+Volkswagen,Passat Variant,2020,21163,122,automatic,diesel,27946
+Volkswagen,Tiguan,2020,34811,239,automatic,diesel,38010
+Volkswagen,Tiguan,2018,76850,239,automatic,diesel,35990
+Volkswagen,T6,2021,27874,110,manual,diesel,35980
+Volkswagen,T6 Multivan,2022,16962,150,automatic,diesel,61990
+Volkswagen,Golf,2018,54800,110,automatic,gasoline,17720
+Volkswagen,Tiguan,2020,20684,150,automatic,gasoline,30900
+Volkswagen,T-Roc,2018,41800,150,manual,gasoline,21675
+Volkswagen,T-Cross,2021,13074,110,automatic,gasoline,27980
+Volkswagen,Golf Variant,2020,18300,150,automatic,gasolin,25390
+Volkswagen,Touareg,2019,39032,421,automatic,diesel,78980
+Volkswagen,California,2019,0,114,manual,gasoline,33676
+Volkswagen,Golf Variant,2019,22740,150,automatic,gasoline,23900
+Volkswagen,Caddy,2019,15,102,manual,diesel,31980
+Volkswagen,T6 Multivan,2021,36800,204,automatic,diesel,68480
+Volkswagen,Polo,2017,57146,110,manual,gasoline,13990
+Volkswagen,Polo,2020,20567,116,manual,gasoline,18790
+Volkswagen,Golf Variant,2020,10,150,automatic,gasoline,50170
+Volkswagen,T6 Multivan,2021,15500,150,manual,diesel,58980
+Volkswagen,T6 Multivan,2021,6187,199,automatic,diesel,72980
+Volkswagen,T-Roc,2018,60500,116,manual,diesel,19990
+Volkswagen,Caddy,2017,36554,150,automatic,diesel,27510
+Volkswagen,Passat Variant,2021,25672,150,automatic,diesel,37990
+Volkswagen,T-Roc,2021,16300,190,automatic,gasoline,38485
+Volkswagen,T-Roc,2022,15,150,automatic,gasoline,36400
+Volkswagen,T-Roc,2022,0,150,automatic,gasoline,37804
+Volkswagen,Tiguan,2018,26347,179,automatic,gasoline,28930
+Volkswagen,Passat Variant,2019,49651,150,manual,gasoline,23985
+Volkswagen,Tiguan,2020,32924,190,automatic,diesel,38800
+Volkswagen,up,2018,48685,60,manual,gasoline,9410
+Volkswagen,T-Roc,2021,6200,150,automatic,gasoline,34590
+Volkswagen,Golf,2019,36637,116,manual,gasoline,20080
+Volkswagen,T6 Multivan,2019,0,204,automatic,diesel,81990
+Volkswagen,Golf,2019,105633,184,automatic,diesel,24990
+Volkswagen,Touran,2017,76037,150,manual,gasoline,24316
+Volkswagen,Crafter,2018,24665,102,manual,diesel,28890
+Volkswagen,Tiguan,2020,24350,150,automatic,gasoline,31890
+Volkswagen,Arteon,2020,0,320,automatic,gasoline,78990
+Volkswagen,Passat Variant,2017,41958,190,automatic,diesel,26490
+Volkswagen,Golf Variant,2022,300,150,manual,gasoline,39970
+Volkswagen,Tiguan,2020,15900,150,automatic,gasoline,32990
+Volkswagen,Touran,2019,42853,150,automatic,gasoline,34400
+Volkswagen,T6,2021,0,150,automatic,diesel,50480
+Volkswagen,Golf,2017,47242,230,manual,gasoline,21950
+Volkswagen,Tiguan,2022,25800,150,automatic,gasoline,38850
+Volkswagen,Golf Variant,2020,21041,150,automatic,gasoline,23880
+Volkswagen,T-Roc,2019,25450,150,manual,gasoline,23990
+Volkswagen,Tiguan,2022,10,150,automatic,diesel,42980
+Volkswagen,Polo,2018,52417,65,manual,gasoline,13490
+Volkswagen,California,2018,0,177,automatic,diesel,95971
+Volkswagen,Polo,2021,9999,95,manual,gasoline,18970
+Volkswagen,Taigo,2022,6210,150,automatic,gasoline,33570
+Volkswagen,T-Roc,2022,0,190,automatic,gasoline,48945
+Volkswagen,T6,2022,34036,110,manual,diesel,36490
+Volkswagen,Golf,2022,26693,300,automatic,gasoline,47980
+Volkswagen,Golf Variant,2022,26196,116,manual,diesel,28433
+Volkswagen,Golf,2016,91100,150,manual,gasoline,18690
+Volkswagen,T7 Multivan,2016,0,150,automatic,diesel,78898
+Volkswagen,Golf Variant,2021,16731,116,automatic,diesel,31310
+Volkswagen,Golf Variant,2020,11264,300,automatic,gasoline,36580
+Volkswagen,Arteon,2021,3500,200,automatic,diesel,47480
+Volkswagen,T-Roc,2018,37383,190,automatic,gasoline,29990
+Volkswagen,T-Roc,2021,6250,150,manual,gasoline,30710
+Volkswagen,T-Roc,2021,0,150,automatic,gasoline,38390
+Volkswagen,T-Roc,2021,15579,150,automatic,gasoline,30430
+Volkswagen,T6 Multivan,2020,9430,150,automatic,diesel,69830
+Volkswagen,Tiguan,2022,16300,150,automatic,gasoline,36366
+Volkswagen,Golf,2022,4675,116,manual,diesel,29990
+Volkswagen,Sharan,2017,140000,150,automatic,diesel,21889
+Volkswagen,Passat Variant,2022,15402,200,automatic,diesel,39980
+Volkswagen,T-Roc Cabriolet,2021,13661,150,automatic,gasoline,37550
+Volkswagen,Crafter,2017,55812,114,manual,diesel,24480
+Volkswagen,Tiguan,2021,32437,150,automatic,gasoline,34950
+Volkswagen,T6,2022,4900,150,manual,diesel,45490
+Volkswagen,T-Roc,2021,0,150,automatic,diesel,39980
+Volkswagen,Golf,2020,10100,150,automatic,gasoline,29985
+Volkswagen,Golf,2019,64248,116,manual,gasoline,20998
+Volkswagen,Golf,2019,92200,150,automatic,diesel,19990
+Volkswagen,Polo,2019,21353,95,automatic,gasoline,19790
+Volkswagen,Tiguan,2022,25061,190,automatic,gasoline,45980
+Volkswagen,Golf,2022,6000,131,manual,gasoline,30990
+Volkswagen,Tiguan,2019,76784,190,automatic,diesel,37980
+Volkswagen,Taigo,2019,0,110,manual,gasoline,25380
+Volkswagen,Golf Variant,2020,18896,150,automatic,gasoline,25990
+Volkswagen,T-Roc,2020,0,150,manual,gasoline,38534
+Volkswagen,Tiguan,2020,25927,239,automatic,diesel,38977
+Volkswagen,Caddy,2021,54144,122,automatic,diesel,37771
+Volkswagen,Tiguan,2019,120708,150,automatic,diesel,25890
+Volkswagen,Touran,2021,43500,150,manual,gasoline,27430
+Volkswagen,Passat Variant,2019,51539,120,automatic,diesel,22650
+Volkswagen,Caddy,2019,10,122,manual,diesel,31480
+Volkswagen,Caddy,2021,3888,122,manual,diesel,28950
+Volkswagen,T-Cross,2021,3200,110,automatic,gasoline,25810
+Volkswagen,T-Roc,2018,47093,116,manual,gasoline,19490
+Volkswagen,T-Roc,2021,12991,150,manual,gasoline,30990
+Volkswagen,Tiguan,2016,77736,239,automatic,diesel,30890
+Volkswagen,Golf,2019,79000,245,manual,gasoline,24470
+Volkswagen,Tiguan,2019,90836,241,automatic,diesel,35380
+Volkswagen,Tiguan,2019,75537,190,automatic,gasoline,33490
+Volkswagen,Passat,2019,34647,150,manual,diesel,22350
+Volkswagen,Passat Variant,2018,79855,150,automatic,diesel,26730
+Volkswagen,Golf Variant,2019,92013,116,automatic,diesel,18777
+Volkswagen,Golf,2020,36678,245,automatic,gasoline,32920
+Volkswagen,T6,2021,9890,110,manual,diesel,37690
+Volkswagen,T6 Multivan,2021,9741,150,automatic,diesel,54950
+Volkswagen,Touran,2021,49711,150,automatic,diesel,40440
+Volkswagen,Golf,2022,6750,131,manual,gasoline,25800
+Volkswagen,up,2018,19686,60,manual,gasoline,12220
+Volkswagen,Golf,2018,0,300,automatic,gasoline,50390
+Volkswagen,Tiguan,2018,0,200,automatic,diesel,65441
+Volkswagen,Golf,2022,7591,116,manual,diesel,27780
+Volkswagen,T-Roc,2018,57187,150,manual,gasoline,21990
+Volkswagen,Golf,2022,8844,116,manual,diesel,27450
+Volkswagen,Golf,2022,21585,150,automatic,diesel,29850
+Volkswagen,Tiguan,2020,7612,190,automatic,gasoline,38890
+Volkswagen,Touran,2017,89722,150,automatic,diesel,26990
+Volkswagen,Golf,2021,26359,245,automatic,gasoline,34949
+Volkswagen,Tiguan,2018,41287,125,manual,gasoline,21990
+Volkswagen,Golf,2018,0,200,automatic,diesel,48480
+Volkswagen,Tiguan,2018,10,150,automatic,diesel,42990
+Volkswagen,Touran,2019,57150,116,manual,diesel,21833
+Volkswagen,Caddy,2019,0,102,manual,diesel,31980
+Volkswagen,Taigo,2019,0,110,manual,gasoline,33880
+Volkswagen,Touran,2022,17500,150,automatic,diesel,37980
+Volkswagen,Caddy,2019,17490,131,manual,gasoline,25640
+Volkswagen,Golf Variant,2021,38600,110,automatic,gasoline,25490
+Volkswagen,T-Roc,2019,27276,150,automatic,gasoline,26490
+Volkswagen,Polo,2019,26300,95,automatic,gasoline,16975
+Volkswagen,Golf Variant,2021,25619,150,automatic,diesel,27490
+Volkswagen,Golf,2021,24754,245,automatic,gasoline,36890
+Volkswagen,Passat Variant,2019,28200,150,automatic,gasoline,27930
+Volkswagen,T6 Caravelle,2021,25436,150,automatic,diesel,49960
+Volkswagen,T-Roc,2021,3700,150,automatic,gasoline,31960
+Volkswagen,Tiguan,2020,33923,150,automatic,gasoline,30990
+Volkswagen,California,2020,0,204,automatic,diesel,101545
+Volkswagen,T-Roc,2021,29000,150,automatic,gasoline,28980
+Volkswagen,T-Roc,2021,7781,110,manual,gasoline,29910
+Volkswagen,Polo,2020,19880,95,manual,gasoline,17442
+Volkswagen,Passat,2022,19850,150,automatic,gasoline,35810
+Volkswagen,Golf,2021,15274,200,automatic,diesel,35500
+Volkswagen,Golf,2022,5344,131,manual,gasoline,27680
+Volkswagen,T7 Multivan,2022,15,150,automatic,diesel,68980
+Volkswagen,T-Roc,2022,8,150,automatic,gasoline,34490
+Volkswagen,Golf,2022,7242,245,automatic,Hybrid - gasoline,44950
+Volkswagen,Passat Variant,2019,62058,150,manual,diesel,22290
+Volkswagen,Golf,2021,34775,116,manual,diesel,24780
+Volkswagen,Touareg,2020,39431,286,automatic,diesel,74990
+Volkswagen,Caddy,2020,10,102,manual,diesel,30480
+Volkswagen,T6 Multivan,2021,18671,150,automatic,diesel,60980
+Volkswagen,Golf,2021,0,150,automatic,Hybrid - gasoline,49482
+Volkswagen,T-Cross,2021,0,150,automatic,gasoline,36980
+Volkswagen,Tiguan,2019,72900,239,automatic,diesel,34340
+Volkswagen,Tiguan,2021,28518,150,automatic,diesel,36777
+Volkswagen,T-Roc,2021,0,150,automatic,gasoline,41770
+Volkswagen,T6 California,2021,27483,150,automatic,diesel,85990
+Volkswagen,Polo,2021,6500,95,automatic,gasoline,23880
+Volkswagen,Arteon,2021,15,190,automatic,gasoline,47890
+Volkswagen,Golf Variant,2015,123834,150,automatic,diesel,17999
+Volkswagen,Golf,2019,38800,245,automatic,gasoline,27440
+Volkswagen,Polo,2021,6847,95,manual,gasoline,19390
+Volkswagen,T6 Caravelle,2018,80241,204,automatic,diesel,37990
+Volkswagen,T-Cross,2018,0,150,automatic,gasoline,34950
+Volkswagen,up,2019,26300,60,manual,gasoline,9490
+Volkswagen,Polo,2019,24717,95,manual,diesel,15925
+Volkswagen,Passat Variant,2020,15977,218,automatic,Hybrid - gasoline,41946
+Volkswagen,Tiguan,2018,84625,150,automatic,diesel,29990
+Volkswagen,Golf Variant,2020,36900,150,automatic,gasoline,27490
+Volkswagen,up,2019,9007,60,manual,gasoline,12870
+Volkswagen,up,2019,0,65,manual,gasoline,20029
+Volkswagen,Tiguan,2020,17713,190,automatic,gasoline,32500
+Volkswagen,Golf Variant,2021,20900,150,automatic,diesel,30490
+Volkswagen,Polo,2018,38896,80,manual,gasoline,12950
+Volkswagen,T6,2018,100448,150,manual,diesel,28441
+Volkswagen,Crafter,2017,110905,140,manual,diesel,24990
+Volkswagen,Caddy,2021,6350,102,manual,diesel,32990
+Volkswagen,Golf,2018,26814,116,manual,gasoline,18995
+Volkswagen,Polo,2018,31150,95,manual,gasoline,18290
+Volkswagen,Polo,2018,56125,95,manual,gasoline,17950
+Volkswagen,T-Roc,2021,17870,300,manual,gasoline,42770
+Volkswagen,Polo,2021,0,95,automatic,gasoline,27790
+Volkswagen,Passat Variant,2019,30937,150,automatic,gasoline,26490
+Volkswagen,Golf,2020,14252,245,automatic,gasoline,32030
+Volkswagen,Tiguan,2019,37486,150,automatic,diesel,35980
+Volkswagen,T6 Multivan,2017,96219,204,automatic,diesel,43809
+Volkswagen,Passat Variant,2019,51420,120,automatic,diesel,21480
+Volkswagen,T6 Multivan,2018,72400,102,manual,diesel,38410
+Volkswagen,Passat Variant,2016,90700,190,automatic,diesel,25680
+Volkswagen,Golf Variant,2020,25438,150,manual,gasoline,25010
+Volkswagen,Golf,2020,0,150,automatic,Hybrid - gasoline,49762
+Volkswagen,T6,2022,90,110,manual,diesel,37780
+Volkswagen,Golf,2016,45233,110,manual,gasoline,14980
+Volkswagen,Golf,2016,0,300,automatic,gasoline,49175
+Volkswagen,Golf,2022,8999,200,automatic,diesel,39840
+Volkswagen,T-Cross,2022,0,110,manual,gasoline,27680
+Volkswagen,up,2022,0,116,manual,gasoline,25324
+Volkswagen,T-Roc,2022,0,150,automatic,gasoline,39480
+Volkswagen,Passat Variant,2021,18700,218,automatic,Hybrid - gasoline,40840
+Volkswagen,T-Cross,2021,9354,95,manual,gasoline,22991
+Volkswagen,Taigo,2022,3500,150,automatic,gasoline,34850
+Volkswagen,Touran,2021,14913,150,automatic,gasoline,37990
+Volkswagen,T6 California,2022,10,204,automatic,diesel,92999
+Volkswagen,Caddy,2021,13600,75,manual,diesel,24840
+Volkswagen,Tiguan,2020,9677,190,automatic,gasoline,35977
+Volkswagen,Golf Variant,2021,26149,110,manual,gasoline,23850
+Volkswagen,Caddy,2019,85595,75,manual,diesel,15790
+Volkswagen,Golf,2019,29478,86,manual,gasoline,17980
+Volkswagen,T-Roc,2022,12285,110,manual,gasoline,25920
+Volkswagen,T-Roc,2022,25000,150,automatic,diesel,36630
+Volkswagen,T6,2022,7000,150,manual,diesel,40395
+Volkswagen,Golf,2020,24509,150,automatic,Hybrid - gasoline,33850
+Volkswagen,Tiguan,2019,40513,131,manual,gasoline,24480
+Volkswagen,Polo,2021,8150,207,automatic,gasoline,29990
+Volkswagen,T-Cross,2021,8989,95,manual,gasoline,22910
+Volkswagen,T-Cross,2021,0,110,manual,gasoline,31015
+Volkswagen,Polo,2022,5750,207,automatic,gasoline,31890
+Volkswagen,T-Roc,2022,0,150,automatic,gasoline,39990
+Volkswagen,T6 Multivan,2021,10500,150,manual,diesel,52950
+Volkswagen,Tiguan,2019,51413,190,automatic,gasoline,29760
+Volkswagen,T-Cross,2019,0,95,manual,gasoline,23280
+Volkswagen,Tiguan,2020,21586,190,automatic,gasoline,39930
+Volkswagen,Caddy,2020,10,102,manual,diesel,33890
+Volkswagen,Golf,2021,10390,150,automatic,gasoline,28990
+Volkswagen,Crafter,2018,58787,140,manual,diesel,35970
+Volkswagen,T-Roc Cabriolet,2018,0,150,manual,gasoline,40875
+Volkswagen,Passat Variant,2017,69773,150,automatic,diesel,20491
+Volkswagen,up,2022,6,83,automatic,electric,24990
+Volkswagen,Polo,2021,8000,80,automatic,gasoline,15881
+Volkswagen,T-Roc,2019,74636,116,manual,diesel,22445
+Volkswagen,Golf,2022,2717,110,manual,gasoline,25850
+Volkswagen,Tiguan,2022,10000,150,automatic,gasoline,39497
+Volkswagen,Tiguan,2021,18501,200,automatic,diesel,52930
+Volkswagen,Tiguan,2021,27047,122,manual,diesel,32980
+Volkswagen,Tiguan,2019,31633,150,automatic,diesel,32220
+Volkswagen,Passat Variant,2020,17850,239,automatic,diesel,45890
+Volkswagen,Golf Variant,2021,11620,150,automatic,gasoline,34340
+Volkswagen,Golf,2020,28640,150,automatic,gasoline,35980
+Volkswagen,Arteon,2018,60327,150,automatic,diesel,31810
+Volkswagen,Polo,2020,16520,95,manual,gasoline,18948
+Volkswagen,ID.3,2020,21431,204,automatic,electric,44890
+Volkswagen,Tiguan,2019,49580,190,automatic,diesel,36870
+Volkswagen,T-Cross,2021,24250,110,automatic,gasoline,25350
+Volkswagen,Caddy,2020,45990,102,manual,diesel,24080
+Volkswagen,T-Roc,2021,5100,150,manual,gasoline,30885
+Volkswagen,Tiguan,2020,18000,190,automatic,diesel,42980
+Volkswagen,T-Roc,2021,3679,150,automatic,gasoline,30601
+Volkswagen,Passat Variant,2020,29118,150,automatic,gasoline,31880
+Volkswagen,T6 California,2020,0,150,automatic,diesel,80250
+Volkswagen,Tiguan,2019,49388,150,automatic,gasoline,28930
+Volkswagen,Polo,2022,51,95,manual,gasoline,22990
+Volkswagen,Golf,2020,34506,131,manual,gasoline,23280
+Volkswagen,T6 Multivan,2021,2217,150,automatic,diesel,52980
+Volkswagen,Tiguan,2021,46855,150,automatic,diesel,37146
+Volkswagen,up,2018,42509,60,manual,gasoline,9940
+Volkswagen,up,2022,2750,116,manual,gasoline,20990
+Volkswagen,Polo,2022,3999,95,manual,gasoline,22780
+Volkswagen,Caddy,2022,0,122,automatic,diesel,48704
+Volkswagen,Polo,2019,60009,80,manual,gasoline,14700
+Volkswagen,T-Cross,2021,6100,110,manual,gasoline,24980
+Volkswagen,Golf Variant,2022,23856,150,automatic,diesel,33480
+Volkswagen,Touran,2018,118883,150,manual,diesel,24840
+Volkswagen,Golf Variant,2021,10550,110,manual,gasoline,25660
+Volkswagen,up,2020,11991,65,manual,gasoline,16400
+Volkswagen,Tiguan,2017,63620,125,manual,gasoline,20979
+Volkswagen,Golf Variant,2022,26497,116,manual,diesel,29200
+Volkswagen,Tiguan,2022,25756,150,automatic,gasoline,35800
+Volkswagen,Tiguan,2021,12262,150,automatic,gasoline,38960
+Volkswagen,T-Roc,2021,0,150,automatic,gasoline,41209
+Volkswagen,T-Roc,2021,0,150,automatic,gasoline,39330
+Volkswagen,Arteon,2021,3500,200,automatic,diesel,48480
+Volkswagen,Arteon,2021,0,200,automatic,diesel,62470
+Volkswagen,T-Cross,2022,1500,110,automatic,gasoline,27480
+Volkswagen,Passat Variant,2019,33278,150,manual,gasoline,25940
+Volkswagen,T-Roc,2021,8061,150,automatic,gasoline,31880
+Volkswagen,T-Roc,2018,35800,116,manual,gasoline,19980
+Volkswagen,Tiguan,2020,7450,150,automatic,gasoline,32680
+Volkswagen,T-Roc Cabriolet,2021,15300,150,automatic,gasoline,34451
+Volkswagen,California,2021,0,177,automatic,diesel,74900
+Volkswagen,T-Roc,2018,61837,116,manual,gasoline,17850
+Volkswagen,Sharan,2019,54266,150,automatic,diesel,36800
+Volkswagen,Golf,2019,0,150,automatic,diesel,38980
+Volkswagen,Golf,2018,50397,116,manual,diesel,19390
+Volkswagen,up,2021,6655,83,automatic,electric,23480
+Volkswagen,Amarok,2018,55100,258,automatic,diesel,48822
+Volkswagen,Polo,2019,77937,95,automatic,diesel,18490
+Volkswagen,Crafter,2021,23657,140,manual,diesel,46980
+Volkswagen,Golf,2022,24833,150,automatic,diesel,30266
+Volkswagen,Taigo,2018,20,150,automatic,gasoline,31840
+Volkswagen,T-Roc Cabriolet,2018,10,150,automatic,gasoline,42180
+Volkswagen,T-Cross,2022,4900,110,automatic,gasoline,31170
+Volkswagen,Golf,2019,42806,290,automatic,gasoline,32389
+Volkswagen,up,2019,29340,60,manual,gasoline,11110
+Volkswagen,T6,2017,55333,150,automatic,diesel,35890
+Volkswagen,up,2019,59060,60,manual,gasoline,10250
+Volkswagen,Golf,2019,0,150,automatic,Hybrid - gasoline,49102
+Volkswagen,Tiguan,2021,14500,200,automatic,diesel,46488
+Volkswagen,Golf Variant,2019,62834,150,automatic,diesel,22930
+Volkswagen,Touareg,2022,6900,286,automatic,diesel,92990
+Volkswagen,Golf,2022,5907,131,manual,gasoline,27020
+Volkswagen,Tiguan,2018,56600,190,automatic,diesel,30950
+Volkswagen,T6,2018,87630,102,manual,diesel,25840
+Volkswagen,Golf Variant,2022,13730,116,manual,diesel,31909
+Volkswagen,Tiguan,2019,46383,239,automatic,diesel,39790
+Volkswagen,T-Roc,2021,5330,190,automatic,gasoline,38740
+Volkswagen,Golf,2021,9994,110,manual,gasoline,26480
+Volkswagen,Passat Variant,2021,14949,156,manual,diesel,34890
+Volkswagen,Golf,2018,79330,136,automatic,electric,22950
+Volkswagen,Golf,2021,8364,150,automatic,gasoline,35397
+Volkswagen,up,2019,46200,75,manual,gasoline,12780
+Volkswagen,Caddy,2019,0,114,manual,gasoline,28100
+Volkswagen,Tiguan,2021,18300,150,automatic,gasoline,37385
+Volkswagen,Tiguan,2021,13537,150,manual,diesel,37930
+Volkswagen,Passat Alltrack,2020,66930,190,automatic,diesel,35700
+Volkswagen,Golf,2018,85895,131,manual,gasoline,17777
+Volkswagen,T-Roc,2021,11550,150,manual,gasoline,25590
+Volkswagen,T6 Multivan,2019,45700,199,automatic,diesel,52410
+Volkswagen,Sharan,2019,51300,150,manual,diesel,35690
+Volkswagen,Golf Variant,2020,16203,150,automatic,diesel,27010
+Volkswagen,T6 Multivan,2022,4437,150,automatic,diesel,59930
+Volkswagen,T-Roc,2022,5000,150,automatic,gasoline,30450
+Volkswagen,T7 Multivan,2022,12000,150,automatic,Hybrid - gasoline,72490
+Volkswagen,T-Roc,2021,9941,150,manual,gasoline,28451
+Volkswagen,Crafter,2021,25881,140,manual,diesel,43890
+Volkswagen,Tiguan,2019,35081,150,manual,diesel,31990
+Volkswagen,Touran,2022,16730,150,automatic,gasoline,37850
+Volkswagen,Tiguan,2022,24400,190,automatic,gasoline,40450
+Volkswagen,Golf,2022,9007,110,automatic,gasoline,28790
+Volkswagen,T-Roc,2021,10023,110,manual,gasoline,24949
+Volkswagen,T-Roc,2021,6234,150,manual,gasoline,33430
+Volkswagen,Touran,2019,69985,150,automatic,diesel,28990
+Volkswagen,up,2020,25000,60,manual,gasoline,12950
+Volkswagen,T-Roc,2019,46143,190,automatic,gasoline,29985
+Volkswagen,Tiguan,2020,16477,190,automatic,diesel,38400
+Volkswagen,Tiguan,2019,15700,150,manual,diesel,26990
+Volkswagen,Golf,2019,0,150,automatic,gasoline,48200
+Volkswagen,Touran,2019,0,150,automatic,gasoline,54580
+Volkswagen,Golf Variant,2021,25200,150,automatic,diesel,32950
+Volkswagen,Golf,2018,61450,116,automatic,diesel,18490
+Volkswagen,Golf,2018,40785,230,automatic,gasoline,24470
+Volkswagen,Passat Variant,2019,25000,218,automatic,Hybrid - gasoline,39840
+Volkswagen,Caddy,2021,19249,102,manual,diesel,29990
+Volkswagen,T-Roc,2021,4859,150,manual,gasoline,30480
+Volkswagen,Golf Variant,2022,8000,150,automatic,gasoline,34350
+Volkswagen,Golf Variant,2021,38698,150,automatic,diesel,27680
+Volkswagen,Caddy,2021,16400,122,automatic,diesel,35950
+Volkswagen,Caddy,2020,19800,102,manual,diesel,22990
+Volkswagen,Golf Sportsvan,2019,32990,150,automatic,diesel,26880
+Volkswagen,T-Roc,2021,14708,190,automatic,gasoline,37480
+Volkswagen,T-Roc,2020,0,150,automatic,gasoline,41770
+Volkswagen,T-Cross,2022,25548,110,automatic,gasoline,24430
+Volkswagen,T6 Multivan,2020,31996,150,automatic,diesel,57980
+Volkswagen,T6 Multivan,2021,26980,150,automatic,diesel,61980
+Volkswagen,Tiguan,2022,50,200,automatic,diesel,57890
+Volkswagen,T-Roc,2019,37652,116,manual,gasoline,21440
+Volkswagen,Golf,2019,0,150,automatic,Hybrid - gasoline,49762
+Volkswagen,Touran,2018,76041,150,manual,gasoline,24980
+Volkswagen,Tiguan,2021,7456,150,automatic,gasoline,35490
+Volkswagen,T7 Multivan,2021,10,150,automatic,Hybrid - gasoline,73830
+Volkswagen,Golf,2022,7759,131,manual,gasoline,27380
+Volkswagen,Caddy,2019,32775,75,manual,diesel,18990
+Volkswagen,Caddy,2021,8002,122,automatic,diesel,36890
+Volkswagen,Golf,2020,22260,150,manual,gasoline,26990
+Volkswagen,Golf,2020,0,131,automatic,Hybrid - gasoline,41160
+Volkswagen,Caddy,2018,43242,150,automatic,diesel,34980
+Volkswagen,Passat Variant,2019,75763,150,automatic,diesel,28240
+Volkswagen,up,2019,20117,116,manual,gasoline,16990
+Volkswagen,Golf,2019,0,245,automatic,gasoline,41252
+Volkswagen,Golf Sportsvan,2019,68142,150,automatic,gasoline,22950
+Volkswagen,Touran,2022,9800,150,automatic,diesel,38380
+Volkswagen,Polo,2018,63457,65,manual,gasoline,12699
+Volkswagen,Tiguan,2019,20106,150,manual,diesel,30990
+Volkswagen,Polo,2021,11350,95,manual,gasoline,19760
+Volkswagen,Tiguan,2021,0,190,automatic,gasoline,68715
+Volkswagen,Polo,2017,27230,90,manual,gasoline,13950
+Volkswagen,Tiguan,2021,49572,200,automatic,diesel,49900
+Volkswagen,Polo,2020,4548,95,manual,gasoline,18130
+Volkswagen,T-Cross,2021,6550,150,automatic,gasoline,27910
+Volkswagen,Touran,2022,16691,150,automatic,diesel,36230
+Volkswagen,Touareg,2019,96654,286,automatic,diesel,60990
+Volkswagen,T-Roc,2019,20500,190,automatic,gasoline,28450
+Volkswagen,Tiguan,2019,0,150,automatic,gasoline,40164
+Volkswagen,Polo,2018,88955,95,automatic,gasoline,16990
+Volkswagen,Passat Variant,2018,89986,150,automatic,diesel,24148
+Volkswagen,T6 California,2018,0,204,automatic,diesel,102990
+Volkswagen,Golf,2022,6586,150,automatic,diesel,32498
+Volkswagen,Golf,2019,41169,245,manual,gasoline,26880
+Volkswagen,Golf,2020,42850,116,manual,gasoline,19980
+Volkswagen,T-Roc,2021,2578,116,manual,diesel,26999
+Volkswagen,Tiguan,2020,20058,190,automatic,gasoline,38460
+Volkswagen,Touran,2020,24509,150,automatic,diesel,31444
+Volkswagen,Golf,2020,34012,110,manual,gasoline,23750
+Volkswagen,T-Roc,2022,10,150,automatic,gasoline,29688
+Volkswagen,T-Roc Cabriolet,2022,0,150,automatic,gasoline,46505
+Volkswagen,Golf,2020,55474,150,automatic,diesel,21098
+Volkswagen,Tiguan,2020,0,245,automatic,gasoline,64805
+Volkswagen,Passat Variant,2018,139127,150,manual,diesel,21990
+Volkswagen,Tiguan,2018,0,200,automatic,diesel,58980
+Volkswagen,Golf Variant,2020,70837,150,automatic,diesel,23777
+Volkswagen,T6,2020,0,150,automatic,diesel,55090
+Volkswagen,T-Roc,2020,9220,150,automatic,gasoline,29850
+Volkswagen,Tiguan,2020,10,150,automatic,diesel,42990
+Volkswagen,Caddy,2021,11541,75,manual,diesel,26970
+Volkswagen,T-Roc,2022,3808,150,automatic,gasoline,35550
+Volkswagen,Polo,2022,50,95,manual,gasoline,22979
+Volkswagen,Polo,2020,31736,200,automatic,gasoline,23270
+Volkswagen,Polo,2018,41013,69,manual,gasoline,14688
+Volkswagen,Arteon,2021,33250,200,automatic,diesel,49110
+Volkswagen,T6 Caravelle,2021,26500,204,automatic,diesel,56880
+Volkswagen,T-Cross,2021,30,95,manual,gasoline,24950
+Volkswagen,Golf Variant,2019,114679,116,automatic,diesel,16190
+Volkswagen,Golf,2021,14820,245,automatic,gasoline,34380
+Volkswagen,Polo,2021,14450,207,automatic,gasoline,27680
+Volkswagen,T-Roc,2020,5669,150,automatic,gasoline,32850
+Volkswagen,T-Roc,2020,0,150,automatic,diesel,46890
+Volkswagen,T-Cross,2022,22280,110,automatic,gasoline,24680
+Volkswagen,Polo,2018,38700,75,manual,gasoline,13000
+Volkswagen,Polo,2019,6476,95,manual,gasoline,18555
+Volkswagen,Golf,2020,35380,150,automatic,gasoline,24731
+Volkswagen,Golf,2020,0,333,automatic,gasoline,65992
+Volkswagen,Golf,2019,23674,116,manual,gasoline,19000
+Volkswagen,T6,2019,0,150,manual,diesel,45181
+Volkswagen,Golf,2019,0,245,automatic,Hybrid - gasoline,41790
+Volkswagen,Tiguan,2019,97532,150,automatic,diesel,28989
+Volkswagen,T-Cross,2022,9300,95,manual,gasoline,23900
+Volkswagen,Golf Variant,2022,0,320,automatic,gasoline,68864
+Volkswagen,T-Cross,2022,1100,150,automatic,gasoline,31290
+Volkswagen,Tiguan,2019,93800,220,automatic,gasoline,35930
+Volkswagen,ID.4,2020,11212,204,automatic,electric,50770
+Volkswagen,Passat Variant,2021,28700,150,automatic,diesel,34980
+Volkswagen,T-Cross,2021,10,110,manual,gasoline,33145
+Volkswagen,Caddy,2017,104543,125,automatic,gasoline,19990
+Volkswagen,Tiguan,2022,12363,150,automatic,gasoline,36990
+Volkswagen,Golf,2021,40800,131,manual,gasoline,21730
+Volkswagen,Golf,2018,22034,125,manual,gasoline,19960
+Volkswagen,Passat Variant,2021,16900,150,manual,diesel,33830
+Volkswagen,Polo,2019,13606,80,manual,diesel,14340
+Volkswagen,T7 Multivan,2019,15,150,automatic,Hybrid - gasoline,74440
+Volkswagen,ID.3,2021,6500,145,automatic,electric,40780
+Volkswagen,Touareg,2022,8750,286,manual,gasoline,95990
+Volkswagen,Passat Variant,2020,94220,150,automatic,diesel,29930
+Volkswagen,Tiguan,2020,13474,190,automatic,gasoline,34740
+Volkswagen,T-Roc,2020,0,150,automatic,diesel,47990
+Volkswagen,Golf Variant,2015,85800,125,manual,gasoline,15836
+Volkswagen,Tiguan,2017,62600,116,manual,diesel,21635
+Volkswagen,Tiguan,2022,4999,200,automatic,diesel,56970
+Volkswagen,Touran,2020,34992,150,automatic,gasoline,34550
+Volkswagen,Touran,2020,23700,150,manual,gasoline,31295
+Volkswagen,Passat Variant,2019,69394,150,automatic,diesel,25690
+Volkswagen,Tiguan,2020,19500,150,automatic,gasoline,30780
+Volkswagen,Polo,2018,27821,95,manual,gasoline,16490
+Volkswagen,Polo,2019,10569,116,automatic,gasoline,19540
+Volkswagen,T-Roc,2021,25500,116,manual,diesel,24888
+Volkswagen,Golf Variant,2022,9980,150,automatic,gasoline,37480
+Volkswagen,California,2022,4850,177,automatic,diesel,92990
+Volkswagen,Tiguan,2019,63134,230,automatic,gasoline,38090
+Volkswagen,Polo,2019,0,95,automatic,gasoline,27790
+Volkswagen,Tiguan,2020,18849,190,automatic,diesel,39930
+Volkswagen,Golf,2019,35800,290,automatic,gasoline,33890
+Volkswagen,Polo,2019,0,207,automatic,gasoline,36327
+Volkswagen,Caddy,2022,500,122,automatic,diesel,38770
+Volkswagen,T-Roc,2021,9467,150,automatic,diesel,37650
+Volkswagen,Passat Variant,2020,45380,190,automatic,diesel,35230
+Volkswagen,Beetle,2018,63853,150,manual,gasoline,23930
+Volkswagen,T-Cross,2018,10,110,manual,gasoline,32180
+Volkswagen,Taigo,2018,10,150,automatic,gasoline,40180
+Volkswagen,T-Roc,2018,39868,116,manual,gasoline,18990
+Volkswagen,Passat Variant,2020,12656,156,automatic,Hybrid - gasoline,45521
+Volkswagen,Caddy,2017,51750,125,manual,gasoline,20880
+Volkswagen,Golf,2022,14250,200,automatic,diesel,43999
+Volkswagen,Golf,2019,54670,131,automatic,gasoline,20980
+Volkswagen,Tiguan,2022,26000,190,automatic,gasoline,40450
+Volkswagen,up,2021,8934,83,automatic,electric,22950
+Volkswagen,Beetle,2018,58150,220,automatic,gasoline,35524
+Volkswagen,Golf,2015,61400,230,automatic,gasoline,22950
+Volkswagen,T6 California,2018,0,150,automatic,diesel,85990
+Volkswagen,Tiguan,2020,34938,190,automatic,diesel,35740
+Volkswagen,Tiguan,2019,52520,190,automatic,diesel,34900
+Volkswagen,Golf,2019,40300,136,automatic,electric,29930
+Volkswagen,T6 Multivan,2020,28110,199,automatic,diesel,66890
+Volkswagen,Caddy,2019,11745,75,manual,diesel,22990
+Volkswagen,Golf,2019,47140,290,automatic,gasoline,32750
+Volkswagen,Golf,2019,57291,290,automatic,gasoline,30950
+Volkswagen,Golf,2022,7809,131,automatic,gasoline,33780
+Volkswagen,Polo,2018,24673,116,automatic,gasoline,18590
+Volkswagen,Tiguan,2019,69238,190,automatic,gasoline,33440
+Volkswagen,Passat Variant,2019,101759,150,automatic,diesel,23330
+Volkswagen,Golf,2022,23243,150,automatic,diesel,29850
+Volkswagen,Passat Variant,2022,15900,150,automatic,diesel,39880
+Volkswagen,Tiguan,2021,16815,200,automatic,diesel,43911
+Volkswagen,T-Roc,2019,87427,116,manual,diesel,18410
+Volkswagen,Touareg,2019,0,286,automatic,diesel,116690
+Volkswagen,Tiguan,2020,35110,150,manual,diesel,27510
+Volkswagen,Golf,2018,98971,310,automatic,gasoline,30800
+Volkswagen,T-Roc,2020,43300,150,automatic,gasoline,28380
+Volkswagen,T-Roc,2021,13100,150,automatic,diesel,33990
+Volkswagen,Golf,2018,50000,125,manual,gasoline,18450
+Volkswagen,T-Roc,2020,7900,300,automatic,gasoline,39970
+Volkswagen,Polo,2022,150,95,manual,gasoline,22980
+Volkswagen,Touran,2021,22400,150,automatic,diesel,35333
+Volkswagen,Tiguan,2017,107657,179,automatic,gasoline,26990
+Volkswagen,Passat Variant,2020,12284,150,automatic,diesel,32380
+Volkswagen,T6 Multivan,2018,0,204,automatic,diesel,86741
+Volkswagen,Tiguan,2018,0,150,automatic,diesel,56845
+Volkswagen,Polo,2018,53008,95,automatic,gasoline,16250
+Volkswagen,Golf Variant,2020,5945,150,automatic,gasoline,27330
+Volkswagen,Golf,2021,11152,131,manual,gasoline,25980
+Volkswagen,T6 California,2022,10,150,automatic,diesel,77395
+Volkswagen,Passat Variant,2021,22072,150,automatic,gasoline,30980
+Volkswagen,Golf Variant,2021,31100,110,automatic,Hybrid - gasoline,24420
+Volkswagen,Golf,2018,64281,150,manual,gasoline,21900
+Volkswagen,Polo,2018,0,95,automatic,gasoline,28235
+Volkswagen,Golf,2021,3941,110,manual,gasoline,25980
+Volkswagen,Tiguan,2022,9900,131,manual,gasoline,32700
+Volkswagen,T7 Multivan,2022,0,150,automatic,Hybrid - gasoline,66935
+Volkswagen,Passat Variant,2016,96715,150,manual,diesel,18429
+Volkswagen,Touareg,2018,86793,286,automatic,diesel,57899
+Volkswagen,Touareg,2021,52327,286,automatic,diesel,69450
+Volkswagen,Golf Variant,2019,48015,116,manual,gasoline,19960
+Volkswagen,Touran,2021,41900,150,manual,gasoline,27430
+Volkswagen,Golf Variant,2021,20633,150,automatic,gasoline,32587
+Volkswagen,Golf Variant,2020,9209,150,automatic,gasoline,26970
+Volkswagen,T-Cross,2022,21869,110,manual,gasoline,24990
+Volkswagen,Caddy,2020,33487,122,manual,diesel,30460
+Volkswagen,Golf,2022,6,320,automatic,gasoline,60490
+Volkswagen,T6 California,2021,22456,150,automatic,diesel,85890
+Volkswagen,Passat Variant,2021,29400,150,manual,gasoline,28730
+Volkswagen,Passat Variant,2019,85600,150,automatic,diesel,25480
+Volkswagen,T6 Caravelle,2019,44243,102,manual,diesel,33970
+Volkswagen,T-Roc,2021,6319,110,manual,gasoline,23478
+Volkswagen,Golf,2018,69912,184,automatic,diesel,24340
+Volkswagen,Polo,2018,0,207,automatic,gasoline,35830
+Volkswagen,Golf,2022,26855,200,automatic,diesel,40450
+Volkswagen,Taigo,2022,9216,110,automatic,gasoline,29470
+Volkswagen,up,2018,42625,60,manual,gasoline,10990
+Volkswagen,Golf Variant,2020,28184,116,manual,gasoline,20010
+Volkswagen,Golf,2020,0,200,automatic,diesel,48775
+Volkswagen,Golf,2019,27448,290,automatic,gasoline,36600
+Volkswagen,Touran,2018,81040,150,automatic,gasoline,28390
+Volkswagen,Golf Sportsvan,2017,52400,110,manual,gasoline,15795
+Volkswagen,Sharan,2019,72802,177,automatic,diesel,34980
+Volkswagen,Golf Variant,2018,82900,150,manual,diesel,18950
+Volkswagen,Polo,2018,27040,116,automatic,gasoline,18480
+Volkswagen,Tiguan,2022,33800,200,automatic,diesel,46790
+Volkswagen,Taigo,2022,5539,110,manual,gasoline,26888
+Volkswagen,Golf Variant,2018,51548,116,manual,diesel,15867
+Volkswagen,Tiguan,2016,41259,179,automatic,gasoline,27950
+Volkswagen,Polo,2022,8460,95,automatic,gasoline,23450
+Volkswagen,Touran,2018,64100,179,automatic,gasoline,33990
+Volkswagen,Touran,2018,68104,116,automatic,diesel,24230
+Volkswagen,Golf,2019,27796,150,automatic,gasoline,21010
+Volkswagen,T6 Multivan,2020,47500,150,manual,diesel,41950
+Volkswagen,CC,2018,26224,184,automatic,diesel,22950
+Volkswagen,T7 Multivan,2018,15,150,automatic,Hybrid - gasoline,74440
+Volkswagen,Tiguan,2014,75678,122,manual,gasoline,16750
+Volkswagen,T6 Multivan,2018,111325,204,automatic,diesel,43570
+Volkswagen,Golf,2022,5832,110,automatic,gasoline,32850
+Volkswagen,T-Roc Cabriolet,2022,0,150,automatic,gasoline,46980
+Volkswagen,Polo,2021,14530,80,manual,gasoline,17490
+Volkswagen,T6 Multivan,2021,22428,204,automatic,diesel,83950
+Volkswagen,Arteon,2022,4896,200,automatic,diesel,62490
+Volkswagen,Crafter,2021,125,140,manual,diesel,48250
+Volkswagen,Caddy,2019,62285,102,manual,gasoline,18930
+Volkswagen,Golf,2019,69506,184,automatic,diesel,25888
+Volkswagen,Passat Variant,2021,13980,150,automatic,gasoline,35977
+Volkswagen,up,2019,32129,60,manual,gasoline,11630
+Volkswagen,Polo,2018,71062,80,manual,diesel,14070
+Volkswagen,T6 Caravelle,2021,21748,150,automatic,diesel,47490
+Volkswagen,Caddy,2018,16895,84,manual,gasoline,15530
+Volkswagen,Crafter,2021,16992,177,manual,diesel,48980
+Volkswagen,Arteon,2022,7857,150,automatic,diesel,45930
+Volkswagen,Caddy,2019,57471,102,manual,diesel,18900
+Volkswagen,Arteon,2018,81580,190,automatic,gasoline,28990
+Volkswagen,Passat Variant,2015,95394,150,manual,gasoline,17950
+Volkswagen,California,2015,0,114,automatic,gasoline,47490
+Volkswagen,Golf,2018,75622,116,manual,diesel,16490
+Volkswagen,Touran,2022,20482,150,automatic,diesel,33920
+Volkswagen,T6 Multivan,2022,0,204,automatic,diesel,84990
+Volkswagen,Caddy,2019,104231,75,manual,diesel,15850
+Volkswagen,Golf Variant,2020,7812,116,manual,gasoline,20590
+Volkswagen,T-Cross,2022,7780,110,manual,gasoline,25440
+Volkswagen,T6 California,2020,19334,150,automatic,diesel,69850
+Volkswagen,T6 Kombi,2022,15,150,automatic,diesel,49896
+Volkswagen,Golf,2022,2000,245,automatic,gasoline,41690
+Volkswagen,T-Cross,2021,11984,110,automatic,gasoline,24890
+Volkswagen,Golf Variant,2017,83800,110,manual,gasoline,14880
+Volkswagen,Golf Variant,2021,16573,150,automatic,diesel,33230
+Volkswagen,Tiguan,2019,61373,239,automatic,diesel,39870
+Volkswagen,Tiguan,2021,46108,150,automatic,diesel,36790
+Volkswagen,Tiguan,2019,62559,150,automatic,gasoline,28890
+Volkswagen,Polo,2020,19852,200,automatic,gasoline,22490
+Volkswagen,Golf Variant,2017,98569,110,manual,diesel,15680
+Volkswagen,T-Roc,2021,9500,150,manual,gasoline,26945
+Volkswagen,Passat Variant,2020,33637,190,automatic,diesel,38500
+Volkswagen,Golf Sportsvan,2018,32203,110,manual,gasoline,19180
+Volkswagen,T-Roc,2022,4810,150,manual,gasoline,29970
+Volkswagen,T-Cross,2021,5222,110,manual,gasoline,26870
+Volkswagen,Golf,2021,17833,204,automatic,Hybrid - gasoline,34990
+Volkswagen,Caddy,2021,9762,122,manual,diesel,29500
+Volkswagen,up,2021,12495,116,manual,gasoline,19249
+Volkswagen,T-Roc,2022,5757,150,automatic,gasoline,36480
+Volkswagen,Golf,2018,40288,86,manual,gasoline,16880
+Volkswagen,T-Cross,2021,2138,110,manual,gasoline,25930
+Volkswagen,T-Roc,2021,10218,150,manual,gasoline,26990
+Volkswagen,Tiguan,2021,12,190,automatic,gasoline,58888
+Volkswagen,Passat,2021,7,218,automatic,Hybrid - gasoline,56021
+Volkswagen,T-Cross,2021,0,110,manual,gasoline,30365
+Volkswagen,Golf,2019,55502,116,manual,diesel,18700
+Volkswagen,Golf Variant,2019,114832,184,automatic,diesel,23890
+Volkswagen,Polo,2021,12000,95,automatic,gasoline,20980
+Volkswagen,T6 California,2021,25708,150,automatic,diesel,84890
+Volkswagen,T6,2021,0,150,manual,diesel,45181
+Volkswagen,Passat Variant,2021,13550,156,automatic,Hybrid - gasoline,49770
+Volkswagen,T6 California,2021,0,204,automatic,diesel,104390
+Volkswagen,Touareg,2020,46458,421,automatic,diesel,79850
+Volkswagen,Tiguan,2022,2852,150,manual,gasoline,32940
+Volkswagen,Tiguan,2022,21952,150,automatic,gasoline,33430
+Volkswagen,Golf Variant,2019,72980,116,manual,diesel,17633
+Volkswagen,Polo,2018,93767,116,automatic,gasoline,19930
+Volkswagen,Touran,2021,31000,150,manual,gasoline,28430
+Volkswagen,Passat Variant,2020,24206,190,automatic,diesel,35530
+Volkswagen,Caddy,2020,0,102,manual,diesel,32980
+Volkswagen,T-Roc Cabriolet,2022,13834,110,manual,gasoline,27400
+Volkswagen,Polo,2022,2376,110,automatic,gasoline,25980
+Volkswagen,Tiguan,2022,16325,245,automatic,Hybrid - gasoline,55911
+Volkswagen,T6 California,2022,0,150,automatic,diesel,94890
+Volkswagen,T-Roc,2022,19294,150,automatic,diesel,36890
+Volkswagen,Golf,2020,53408,290,automatic,gasoline,39930
+Volkswagen,Golf,2019,24557,290,automatic,gasoline,34880
+Volkswagen,Touareg,2019,93451,340,automatic,gasoline,65020
+Volkswagen,Caddy,2018,26718,75,manual,diesel,15931
+Volkswagen,T6,2018,0,110,manual,diesel,44980
+Volkswagen,T6 Caravelle,2021,22131,150,automatic,diesel,48980
+Volkswagen,Polo,2021,0,95,manual,gasoline,26900
+Volkswagen,Golf,2020,33400,150,manual,gasoline,25880
+Volkswagen,Golf Variant,2020,3364,150,automatic,gasoline,25450
+Volkswagen,Polo,2019,37941,200,automatic,gasoline,21880
+Volkswagen,Golf,2019,5,131,manual,gasoline,27500
+Volkswagen,Golf Variant,2018,89150,150,manual,diesel,17990
+Volkswagen,Golf Variant,2019,90723,116,manual,gasoline,17922
+Volkswagen,T6 Multivan,2021,23209,150,automatic,diesel,58880
+Volkswagen,Polo,2020,12553,200,automatic,gasoline,22850
+Volkswagen,Golf,2020,60810,116,automatic,gasoline,18950
+Volkswagen,Passat Variant,2021,9900,122,automatic,diesel,36890
+Volkswagen,Golf,2019,27527,245,automatic,gasoline,25930
+Volkswagen,Golf Variant,2021,15520,110,manual,gasoline,28790
+Volkswagen,Golf,2017,108708,110,manual,gasoline,14680
+Volkswagen,Touareg,2020,42615,286,automatic,diesel,69980
+Volkswagen,Golf,2021,5500,300,automatic,gasoline,45900
+Volkswagen,Golf,2018,27435,116,manual,gasoline,18400
+Volkswagen,Golf Variant,2020,7859,116,manual,gasoline,18760
+Volkswagen,Tiguan,2018,45000,150,manual,gasoline,25890
+Volkswagen,Tiguan,2019,37129,150,automatic,gasoline,29990
+Volkswagen,Golf,2019,0,190,automatic,gasoline,38809
+Volkswagen,Tiguan,2019,37526,190,automatic,gasoline,32930
+Volkswagen,T6 Caravelle,2021,30169,150,manual,diesel,47960
+Volkswagen,Tiguan,2019,37825,150,automatic,gasoline,29990
+Volkswagen,Golf,2019,0,150,manual,Hybrid - gasoline,37990
+Volkswagen,T-Cross,2022,10000,95,manual,gasoline,23690
+Volkswagen,Tiguan,2022,8,150,automatic,gasoline,45560
+Volkswagen,Passat Variant,2019,63700,120,automatic,diesel,21990
+Volkswagen,Sharan,2019,75400,150,manual,gasoline,29900
+Volkswagen,T6,2019,50,150,manual,diesel,44690
+Volkswagen,Sharan,2022,100,150,automatic,gasoline,47950
+Volkswagen,T6,2017,32109,150,manual,diesel,29980
+Volkswagen,Caddy,2017,15,102,manual,diesel,38890
+Volkswagen,Golf Sportsvan,2018,10040,131,automatic,gasoline,21990
+Volkswagen,Golf,2018,25800,125,manual,gasoline,18930
+Volkswagen,Tiguan,2022,20100,200,automatic,diesel,46950
+Volkswagen,Touareg,2019,96654,286,automatic,diesel,59990
+Volkswagen,Golf Variant,2021,45477,150,automatic,diesel,30180
+Volkswagen,Golf,2021,0,150,automatic,diesel,48205
+Volkswagen,Passat Alltrack,2020,31269,190,automatic,diesel,38930
+Volkswagen,Tiguan,2020,38526,190,automatic,diesel,36777
+Volkswagen,Golf Variant,2019,47530,184,automatic,diesel,30790
+Volkswagen,Tiguan,2019,40983,150,automatic,diesel,34430
+Volkswagen,Polo,2018,62950,116,automatic,gasoline,18110
+Volkswagen,Passat Alltrack,2018,88410,190,automatic,diesel,27440
+Volkswagen,Crafter,2022,1200,140,manual,diesel,46980
+Volkswagen,T-Cross,2022,0,150,automatic,gasoline,37508
+Volkswagen,Golf,2022,0,245,automatic,gasoline,44900
+Volkswagen,T6 California,2019,69761,199,automatic,diesel,61899
+Volkswagen,Golf Sportsvan,2018,80650,116,manual,gasoline,17610
+Volkswagen,Polo,2022,4910,110,manual,gasoline,27870
+Volkswagen,Polo,2018,0,80,manual,gasoline,19590
+Volkswagen,Golf,2022,7900,150,manual,gasoline,27685
+Volkswagen,Golf,2021,8950,150,manual,gasoline,27830
+Volkswagen,Touran,2018,37887,150,manual,gasoline,24490
+Volkswagen,Polo,2018,44400,95,manual,gasoline,16933
+Volkswagen,Tiguan,2021,0,320,automatic,gasoline,64989
+Volkswagen,Golf,2020,27507,290,automatic,gasoline,34190
+Volkswagen,Tiguan,2019,95429,239,automatic,diesel,36600
+Volkswagen,Golf Variant,2018,41678,110,manual,gasoline,18120
+Volkswagen,T-Roc,2018,0,150,automatic,gasoline,41770
+Volkswagen,T-Roc Cabriolet,2018,0,150,automatic,gasoline,46519
+Volkswagen,Tiguan,2019,19133,190,automatic,diesel,40730
+Volkswagen,Caddy,2021,10501,122,automatic,diesel,37990
+Volkswagen,Polo,2022,4900,95,manual,gasoline,21970
+Volkswagen,Passat Variant,2021,9670,200,automatic,diesel,46430
+Volkswagen,T-Roc,2021,0,110,manual,gasoline,29277
+Volkswagen,Tiguan,2021,10950,150,manual,gasoline,34930
+Volkswagen,Golf,2022,10744,245,manual,gasoline,39330
+Volkswagen,ID.3,2020,15782,204,automatic,electric,38777
+Volkswagen,Tiguan,2022,8478,150,automatic,diesel,42930
+Volkswagen,Golf,2021,15980,116,manual,diesel,24980
+Volkswagen,Arteon,2022,4500,190,manual,gasoline,64150
+Volkswagen,T-Roc,2022,0,150,automatic,gasoline,41610
+Volkswagen,Tiguan,2022,9900,200,automatic,diesel,59990
+Volkswagen,Golf,2019,43354,245,automatic,gasoline,25490
+Volkswagen,T-Roc,2021,17250,116,manual,diesel,25980
+Volkswagen,Polo,2019,13901,65,manual,gasoline,14980
+Volkswagen,Golf,2022,0,150,automatic,diesel,48205
+Volkswagen,Polo,2018,52500,95,manual,gasoline,16085
+Volkswagen,T-Cross,2022,15460,110,manual,gasoline,24980
+Volkswagen,Golf,2020,9082,245,automatic,Hybrid - gasoline,33950
+Volkswagen,Tiguan,2019,85500,150,manual,diesel,24490
+Volkswagen,Tiguan,2020,63400,190,automatic,gasoline,39498
+Volkswagen,Caddy,2020,15,102,manual,diesel,31980
+Volkswagen,Golf Sportsvan,2015,39900,110,automatic,gasoline,14990
+Volkswagen,up,2020,26352,60,manual,gasoline,12450
+Volkswagen,Tiguan,2022,26600,190,automatic,gasoline,39450
+Volkswagen,Golf,2020,49494,245,automatic,Hybrid - gasoline,32880
+Volkswagen,Tiguan,2018,82590,150,manual,diesel,23890
+Volkswagen,Golf,2021,38721,110,automatic,gasoline,25480
+Volkswagen,Golf Variant,2021,8329,150,automatic,gasoline,29890
+Volkswagen,Crafter,2022,50,177,automatic,diesel,65438
+Volkswagen,T-Roc,2019,41119,150,manual,gasoline,22489
+Volkswagen,T-Roc,2021,22116,110,manual,gasoline,24380
+Volkswagen,Tiguan,2021,7356,150,automatic,gasoline,35925
+Volkswagen,T6 Multivan,2021,7447,110,manual,diesel,48940
+Volkswagen,Golf Variant,2022,4850,320,automatic,gasoline,59990
+Volkswagen,Passat Variant,2021,80740,200,automatic,diesel,31990
+Volkswagen,Golf,2021,0,245,automatic,Hybrid - gasoline,40690
+Volkswagen,ID.3,2022,4900,150,automatic,electric,39880
+Volkswagen,Golf,2019,52500,116,manual,gasoline,18980
+Volkswagen,Golf,2018,29500,230,automatic,gasoline,28930
+Volkswagen,T-Roc,2021,8504,150,automatic,gasoline,29611
+Volkswagen,T6 California,2021,0,150,automatic,diesel,96717
+Volkswagen,Golf,2019,50389,150,automatic,gasoline,22760
+Volkswagen,T6 California,2019,0,204,automatic,diesel,119999
+Volkswagen,Caddy,2019,15,114,automatic,gasoline,39390
+Volkswagen,Polo,2020,35740,200,automatic,gasoline,22930
+Volkswagen,California,2021,6916,177,automatic,diesel,85490
+Volkswagen,Golf Sportsvan,2019,78223,150,automatic,diesel,22990
+Volkswagen,Polo,2022,11962,95,automatic,gasoline,23480
+Volkswagen,Golf,2021,19445,245,automatic,gasoline,34730
+Volkswagen,Golf,2020,16709,136,automatic,electric,28690
+Volkswagen,Golf,2020,8690,245,automatic,gasoline,35380
+Volkswagen,Polo,2020,0,95,manual,gasoline,25200
+Volkswagen,Golf,2022,10,131,manual,gasoline,25588
+Volkswagen,Caddy,2022,15,114,automatic,gasoline,51790
+Volkswagen,Golf Variant,2020,7708,150,automatic,gasoline,27720
+Volkswagen,Tiguan,2021,11200,200,automatic,diesel,49999
+Volkswagen,Touareg,2019,42773,231,automatic,diesel,69190
+Volkswagen,T-Cross,2022,6900,150,automatic,gasoline,27890
+Volkswagen,Tiguan,2019,16233,190,automatic,gasoline,39900
+Volkswagen,Tiguan,2021,10746,150,automatic,gasoline,37848
+Volkswagen,Arteon,2020,25035,190,automatic,gasoline,31440
+Volkswagen,T6 Kombi,2019,102765,150,manual,diesel,29980
+Volkswagen,Touran,2018,48004,116,automatic,diesel,27950
+Volkswagen,T-Roc Cabriolet,2022,9999,150,automatic,gasoline,40880
+Volkswagen,Tiguan,2019,26376,150,automatic,gasoline,29180
+Volkswagen,Amarok,2021,31700,258,automatic,diesel,59450
+Volkswagen,ID.4,2021,1490,148,automatic,electric,41990
+Volkswagen,ID.4,2021,14925,299,automatic,electric,66900
+Volkswagen,Tiguan,2020,20175,150,automatic,gasoline,30980
+Volkswagen,T-Cross,2022,10000,95,manual,gasoline,24490
+Volkswagen,T-Roc,2021,14500,150,manual,gasoline,26880
+Volkswagen,Caddy,2021,0,102,manual,diesel,30990
+Volkswagen,Golf Variant,2021,16250,131,manual,gasoline,26980
+Volkswagen,Golf,2017,119950,150,manual,diesel,18450
+Volkswagen,Tiguan,2019,47876,150,automatic,diesel,29523
+Volkswagen,Golf Variant,2020,33990,150,manual,diesel,30480
+Volkswagen,Touareg,2020,0,231,automatic,diesel,69970
+Volkswagen,Polo,2017,81950,75,manual,gasoline,10610
+Volkswagen,T-Roc,2017,0,150,automatic,gasoline,43790
+Volkswagen,T-Cross,2020,9490,95,automatic,diesel,27490
+Volkswagen,Tiguan,2022,3000,200,automatic,diesel,57379
+Volkswagen,up,2019,73131,60,manual,gasoline,10885
+Volkswagen,Caddy,2020,20289,102,manual,gasoline,21850
+Volkswagen,ID.3,2020,19285,204,automatic,electric,42777
+Volkswagen,T-Roc,2021,33880,116,manual,diesel,28490
+Volkswagen,Polo,2019,54362,95,manual,diesel,17640
+Volkswagen,Passat Variant,2022,26172,150,automatic,diesel,39950
+Volkswagen,T-Roc,2020,13600,116,manual,diesel,26380
+Volkswagen,Tiguan,2021,10706,245,automatic,gasoline,45770
+Volkswagen,T-Roc,2021,6820,150,automatic,diesel,34991
+Volkswagen,T-Cross,2021,20300,110,manual,gasoline,23950
+Volkswagen,Golf,2021,19290,245,automatic,gasoline,36985
+Volkswagen,T-Roc,2021,17615,150,manual,gasoline,25424
+Volkswagen,Arteon,2022,25476,150,automatic,diesel,38491
+Volkswagen,Tiguan,2022,6254,150,automatic,diesel,46630
+Volkswagen,T-Roc,2021,16350,300,automatic,gasoline,40447
+Volkswagen,Tiguan,2020,14269,230,automatic,gasoline,38850
+Volkswagen,Polo,2020,0,207,automatic,gasoline,37376
+Volkswagen,Golf,2019,32867,300,automatic,gasoline,35750
+Volkswagen,Arteon,2019,0,190,automatic,gasoline,54880
+Volkswagen,up,2021,16500,65,manual,gasoline,14930
+Volkswagen,Tiguan,2021,15,245,automatic,Hybrid - gasoline,59958
+Volkswagen,Arteon,2022,4772,200,automatic,diesel,64790
+Volkswagen,Golf,2021,17182,245,automatic,gasoline,39020
+Volkswagen,Caddy,2022,0,102,manual,diesel,31980
+Volkswagen,Golf,2021,14221,150,automatic,diesel,28895
+Volkswagen,Tiguan,2021,31110,150,automatic,diesel,34990
+Volkswagen,Golf,2022,5161,190,automatic,gasoline,36520
+Volkswagen,Golf,2022,5161,190,automatic,gasoline,35920
+Volkswagen,Crafter,2022,10,140,manual,diesel,42988
+Volkswagen,T6 Multivan,2022,28653,150,automatic,diesel,58970
+Volkswagen,T-Cross,2022,0,110,manual,gasoline,30279
+Volkswagen,Golf,2020,25780,116,manual,diesel,19260
+Volkswagen,Golf Variant,2020,63104,300,automatic,gasoline,29950
+Volkswagen,Touran,2017,99250,150,automatic,gasoline,23690
+Volkswagen,Golf,2022,7235,110,automatic,gasoline,34907
+Volkswagen,T-Roc Cabriolet,2022,0,150,automatic,gasoline,43380
+Volkswagen,T6,2018,60000,150,automatic,diesel,39984
+Volkswagen,Golf,2020,4200,136,automatic,electric,28430
+Volkswagen,Sharan,2020,23510,150,automatic,diesel,37795
+Volkswagen,Tiguan,2021,15300,122,manual,diesel,33990
+Volkswagen,Polo,2022,15805,95,manual,gasoline,22090
+Volkswagen,Golf,2021,8813,245,automatic,gasoline,37950
+Volkswagen,Tiguan,2022,10000,200,automatic,diesel,42350
+Volkswagen,Golf,2022,0,150,automatic,gasoline,48200
+Volkswagen,Tiguan,2022,0,150,manual,diesel,35790
+Volkswagen,Passat Variant,2020,7148,120,automatic,diesel,26800
+Volkswagen,T-Roc,2022,6066,150,automatic,diesel,33730
+Volkswagen,Tiguan,2020,35069,190,automatic,diesel,35980
+Volkswagen,Golf,2019,40559,131,automatic,gasoline,21950
+Volkswagen,Polo,2022,100,95,manual,gasoline,22990
+Volkswagen,Passat Variant,2022,26818,150,automatic,gasoline,35990
+Volkswagen,T6 Multivan,2021,22257,204,automatic,diesel,72860
+Volkswagen,Caddy,2018,38355,84,manual,gasoline,20000
+Volkswagen,Caddy,2020,19300,102,manual,diesel,27810
+Volkswagen,Golf,2022,9296,90,manual,gasoline,20860
+Volkswagen,Caddy,2022,10,122,manual,diesel,31840
+Volkswagen,Caddy,2018,50500,125,automatic,gasoline,22490
+Volkswagen,Tiguan,2021,15783,150,automatic,diesel,39930
+Volkswagen,T-Roc,2019,46945,116,manual,gasoline,19790
+Volkswagen,Golf,2022,6607,116,automatic,diesel,29320
+Volkswagen,Golf,2021,17400,116,manual,diesel,23820
+Volkswagen,Tiguan,2020,12677,230,automatic,gasoline,41290
+Volkswagen,Taigo,2022,4000,110,automatic,gasoline,29990
+Volkswagen,Golf,2022,24234,150,automatic,diesel,27380
+Volkswagen,T-Roc Cabriolet,2020,19200,150,automatic,gasoline,34140
+Volkswagen,Golf,2018,45165,245,automatic,gasoline,26430
+Volkswagen,Golf,2017,99250,150,manual,gasoline,16938
+Volkswagen,T6,2022,10,110,manual,diesel,36790
+Volkswagen,Touareg,2019,60460,286,automatic,diesel,54900
+Volkswagen,Polo,2019,37400,65,manual,gasoline,15175
+Volkswagen,T6 Caravelle,2021,29250,150,automatic,diesel,46930
+Volkswagen,Touran,2022,100,150,automatic,gasoline,44990
+Volkswagen,T6 Kombi,2021,21600,150,automatic,diesel,45880
+Volkswagen,Tiguan,2019,49057,150,automatic,diesel,34320
+Volkswagen,Polo,2019,62847,80,manual,gasoline,12990
+Volkswagen,T6,2019,0,110,manual,diesel,43690
+Volkswagen,Golf,2021,5001,110,manual,gasoline,24580
+Volkswagen,Golf Variant,2022,18110,116,automatic,diesel,28950
+Volkswagen,T7 Multivan,2021,18888,150,automatic,gasoline,73480
+Volkswagen,Taigo,2022,4900,150,automatic,gasoline,34990
+Volkswagen,T-Roc,2022,5000,190,automatic,gasoline,39390
+Volkswagen,T-Roc,2021,12973,150,manual,gasoline,28950
+Volkswagen,T6,2018,71200,204,automatic,diesel,52930
+Volkswagen,Polo,2018,44040,95,manual,gasoline,17690
+Volkswagen,Polo,2018,40220,95,automatic,gasoline,16490
+Volkswagen,Polo,2019,50145,95,automatic,diesel,17750
+Volkswagen,Golf Variant,2019,102919,116,manual,diesel,15777
+Volkswagen,T-Roc,2022,6000,150,automatic,gasoline,35980
+Volkswagen,Tiguan,2020,43860,239,automatic,diesel,41460
+Volkswagen,T-Cross,2020,0,110,manual,gasoline,31660
+Volkswagen,Golf,2020,50,190,automatic,gasoline,46757
+Volkswagen,Tiguan,2022,6500,150,automatic,diesel,41980
+Volkswagen,Tiguan,2018,77635,190,automatic,diesel,32370
+Volkswagen,Golf,2021,3329,204,automatic,Hybrid - gasoline,40634
+Volkswagen,Polo,2019,60400,80,manual,gasoline,14980
+Volkswagen,T-Roc,2021,11634,150,automatic,diesel,41990
+Volkswagen,Golf Variant,2021,0,131,automatic,gasoline,35280
+Volkswagen,T-Cross,2021,0,110,manual,gasoline,30475
+Volkswagen,Polo,2021,20,95,automatic,gasoline,21150
+Volkswagen,Tiguan,2019,22511,150,automatic,diesel,31990
+Volkswagen,Golf,2019,48705,150,automatic,gasoline,19911
+Volkswagen,Golf,2019,16720,150,automatic,gasoline,23490
+Volkswagen,Golf Variant,2020,24048,150,automatic,gasoline,24330
+Volkswagen,T-Cross,2020,20000,150,automatic,gasoline,26490
+Volkswagen,Polo,2018,8071,95,automatic,gasoline,18850
+Volkswagen,T-Cross,2018,10,110,automatic,gasoline,34490
+Volkswagen,Taigo,2018,0,110,manual,gasoline,24780
+Volkswagen,T-Roc Cabriolet,2018,0,150,automatic,gasoline,40690
+Volkswagen,Golf,2020,34700,150,automatic,diesel,26829
+Volkswagen,Golf,2022,4900,150,manual,gasoline,34990
+Volkswagen,Golf Variant,2022,2000,190,automatic,gasoline,44980
+Volkswagen,Polo,2021,37209,110,automatic,gasoline,23900
+Volkswagen,Golf,2022,19930,150,automatic,diesel,30930
+Volkswagen,Golf,2022,24560,150,automatic,diesel,28939
+Volkswagen,T-Roc,2021,12217,150,automatic,diesel,32310
+Volkswagen,T6 Multivan,2022,7500,150,automatic,diesel,63950
+Volkswagen,Golf,2021,6900,110,automatic,gasoline,27498
+Volkswagen,T-Roc,2019,9645,150,automatic,gasoline,27340
+Volkswagen,Sharan,2019,44580,177,automatic,diesel,37780
+Volkswagen,Golf,2019,2700,290,automatic,gasoline,38410
+Volkswagen,Touareg,2017,30171,262,automatic,diesel,42980
+Volkswagen,Tiguan,2021,27060,122,manual,diesel,33990
+Volkswagen,T-Roc,2018,43000,190,automatic,gasoline,27990
+Volkswagen,Tiguan,2019,68411,190,automatic,diesel,34991
+Volkswagen,Golf Sportsvan,2019,27653,116,manual,gasoline,18980
+Volkswagen,Tiguan,2020,21196,230,automatic,gasoline,37359
+Volkswagen,ID.3,2020,0,204,automatic,electric,44700
+Volkswagen,T-Roc,2020,0,300,automatic,gasoline,58290
+Volkswagen,Passat Variant,2017,123671,190,automatic,diesel,21930
+Volkswagen,Polo,2021,15354,95,automatic,gasoline,18880
+Volkswagen,T-Cross,2021,11055,110,manual,gasoline,24950
+Volkswagen,T6 Multivan,2021,0,204,automatic,diesel,91360
+Volkswagen,Golf,2020,26894,150,automatic,Hybrid - gasoline,33480
+Volkswagen,Tiguan,2021,14700,200,automatic,diesel,47950
+Volkswagen,T6 Multivan,2021,9015,150,automatic,diesel,52389
+Volkswagen,T-Cross,2022,5000,110,automatic,gasoline,26790
+Volkswagen,Golf Sportsvan,2020,85015,116,manual,diesel,20590
+Volkswagen,Golf,2022,7950,131,manual,gasoline,26950
+Volkswagen,Tiguan,2020,32500,150,automatic,gasoline,30840
+Volkswagen,Caddy,2022,7189,114,automatic,gasoline,40976
+Volkswagen,Passat Variant,2019,94300,190,automatic,diesel,24680
+Volkswagen,Tiguan,2019,0,150,automatic,gasoline,51590
+Volkswagen,Touran,2021,21076,150,automatic,diesel,35940
+Volkswagen,T-Cross,2020,0,110,manual,gasoline,30279
+Volkswagen,Caddy,2020,0,102,manual,diesel,38452
+Volkswagen,T-Roc,2022,15000,150,automatic,gasoline,34900
+Volkswagen,T-Cross,2022,7970,110,manual,gasoline,23299
+Volkswagen,Golf,2018,98150,150,automatic,diesel,21380
+Volkswagen,Tiguan,2018,71149,150,automatic,gasoline,27880
+Volkswagen,Crafter,2021,30145,140,manual,diesel,45970
+Volkswagen,T6 California,2022,10,204,automatic,diesel,98889
+Volkswagen,T-Roc,2022,4900,300,automatic,gasoline,49970
+Volkswagen,up,2020,23000,60,manual,gasoline,14750
+Volkswagen,Golf,2021,34718,131,manual,gasoline,23440
+Volkswagen,Tiguan,2019,76599,150,manual,diesel,24750
+Volkswagen,T-Roc,2018,51001,116,manual,gasoline,22850
+Volkswagen,Passat Variant,2020,20964,150,automatic,diesel,32820
+Volkswagen,Arteon,2021,6328,190,automatic,gasoline,40150
+Volkswagen,up,2018,22890,60,manual,gasoline,9820
+Volkswagen,Tiguan,2021,1500,245,automatic,Hybrid - gasoline,55950
+Volkswagen,T-Cross,2021,17560,110,automatic,gasoline,25998
+Volkswagen,Golf,2022,10862,131,automatic,gasoline,32480
+Volkswagen,T-Cross,2022,23998,110,automatic,gasoline,24660
+Volkswagen,Tiguan,2018,107072,179,automatic,gasoline,27690
+Volkswagen,T-Roc,2018,36817,116,manual,gasoline,16990
+Volkswagen,up,2018,40312,60,manual,gasoline,9450
+Volkswagen,T-Roc Cabriolet,2021,21742,150,automatic,gasoline,30880
+Volkswagen,Passat Variant,2019,50356,150,manual,diesel,22988
+Volkswagen,Golf Variant,2019,60202,116,automatic,diesel,18950
+Volkswagen,T-Roc Cabriolet,2019,0,110,manual,gasoline,32480
+Volkswagen,Touran,2021,45000,150,manual,gasoline,27430
+Volkswagen,Passat Variant,2018,70379,125,manual,gasoline,17950
+Volkswagen,Taigo,2022,10,150,automatic,gasoline,29390
+Volkswagen,T-Roc,2022,0,150,automatic,gasoline,41770
+Volkswagen,Caddy,2022,15,102,manual,diesel,42690
+Volkswagen,up,2022,0,65,manual,gasoline,20029
+Volkswagen,Golf Variant,2019,38100,116,manual,diesel,18990
+Volkswagen,California,2022,0,177,automatic,diesel,114165
+Volkswagen,T6 Caravelle,2021,22770,150,manual,diesel,49930
+Volkswagen,T-Roc,2021,22205,190,automatic,gasoline,34890
+Volkswagen,Amarok,2019,105753,258,automatic,diesel,41980
+Volkswagen,Arteon,2021,17847,280,automatic,gasoline,46990
+Volkswagen,Sharan,2018,62593,220,automatic,gasoline,31486
+Volkswagen,Polo,2018,40466,95,manual,diesel,18930
+Volkswagen,Beetle,2017,28043,110,manual,diesel,21930
+Volkswagen,Golf,2021,15422,320,automatic,gasoline,55690
+Volkswagen,Tiguan,2022,6063,150,automatic,gasoline,37450
+Volkswagen,Golf,2022,0,245,automatic,Hybrid - gasoline,42490
+Volkswagen,T-Roc,2022,3,150,automatic,gasoline,43305
+Volkswagen,Golf,2022,9969,131,manual,gasoline,28380
+Volkswagen,Passat Variant,2021,28250,150,automatic,diesel,39250
+Volkswagen,Tiguan,2021,0,200,automatic,diesel,65612
+Volkswagen,Passat Variant,2021,29149,156,automatic,Hybrid - gasoline,44450
+Volkswagen,Passat Variant,2019,82168,150,manual,diesel,21790
+Volkswagen,Golf,2019,0,150,automatic,Hybrid - gasoline,49482
+Volkswagen,Polo,2019,6221,65,automatic,gasoline,13800
+Volkswagen,up,2021,10000,65,manual,gasoline,10490
+Volkswagen,Golf,2018,13683,116,manual,gasoline,18290
+Volkswagen,Golf,2022,18793,150,automatic,diesel,29850
+Volkswagen,T-Cross,2022,20879,110,automatic,gasoline,24660
+Volkswagen,Golf,2021,5539,110,manual,gasoline,25020
+Volkswagen,Tiguan,2022,31980,150,automatic,diesel,39950
+Volkswagen,Polo,2018,39055,95,manual,diesel,17888
+Volkswagen,up,2017,8313,60,manual,gasoline,10990
+Volkswagen,Touran,2019,42776,150,automatic,gasoline,28991
+Volkswagen,Tiguan,2020,64465,150,automatic,diesel,32290
+Volkswagen,Golf,2019,28500,184,automatic,diesel,32770
+Volkswagen,Crafter,2021,69954,140,manual,diesel,38899
+Volkswagen,Golf,2022,7523,110,automatic,gasoline,28445
+Volkswagen,T-Cross,2021,15905,110,manual,gasoline,26930
+Volkswagen,T-Roc,2022,16,150,manual,gasoline,31900
+Volkswagen,T6 Kombi,2022,25055,150,automatic,diesel,46980
+Volkswagen,Passat Variant,2018,24328,150,automatic,diesel,26720
+Volkswagen,Touran,2020,8200,116,automatic,diesel,30900
+Volkswagen,Touran,2022,5696,122,manual,diesel,33491
+Volkswagen,Golf,2022,1004,320,automatic,gasoline,46950
+Volkswagen,Passat Variant,2022,10,190,automatic,gasoline,62980
+Volkswagen,Crafter,2016,35190,109,manual,diesel,24550
+Volkswagen,Passat Variant,2019,64900,150,manual,diesel,21280
+Volkswagen,Tiguan,2016,70699,150,manual,diesel,20480
+Volkswagen,Tiguan,2018,106371,239,automatic,diesel,31990
+Volkswagen,up,2022,10,65,manual,gasoline,17950
+Volkswagen,Golf Variant,2022,14588,150,manual,gasoline,29795
+Volkswagen,Tiguan,2021,8900,150,automatic,diesel,45827
+Volkswagen,T-Cross,2021,5,150,automatic,gasoline,28500
+Volkswagen,Golf Variant,2021,6706,110,manual,gasoline,26710
+Volkswagen,Passat Variant,2017,74857,179,automatic,gasoline,23790
+Volkswagen,T-Cross,2022,5629,150,automatic,gasoline,27890
+Volkswagen,Golf,2018,82221,86,manual,gasoline,13790
+Volkswagen,Tiguan,2017,124000,150,automatic,diesel,24930
+Volkswagen,Golf Variant,2021,16760,131,manual,gasoline,29930
+Volkswagen,Golf Variant,2021,14299,110,manual,gasoline,24380
+Volkswagen,T-Cross,2022,4900,110,automatic,gasoline,29670
+Volkswagen,T-Roc,2021,16484,150,manual,gasoline,27930
+Volkswagen,Passat Variant,2021,38579,150,automatic,diesel,33860
+Volkswagen,Golf Variant,2019,50514,150,manual,diesel,21490
+Volkswagen,Polo,2018,37009,80,manual,diesel,15870
+Volkswagen,Caddy,2020,0,122,automatic,diesel,38846
+Volkswagen,Golf Variant,2018,36466,150,automatic,gasoline,23450
+Volkswagen,Polo,2022,50,95,automatic,gasoline,24979
+Volkswagen,Golf,2020,22446,300,automatic,gasoline,35290
+Volkswagen,T6 California,2019,35758,150,automatic,diesel,66924
+Volkswagen,Sharan,2019,65319,150,automatic,gasoline,32890
+Volkswagen,Golf Variant,2019,77200,150,automatic,diesel,23990
+Volkswagen,Touran,2017,82500,150,automatic,diesel,25570
+Volkswagen,Touran,2018,24787,150,automatic,gasoline,26980
+Volkswagen,Tiguan,2022,6600,150,automatic,Hybrid - gasoline,53789
+Volkswagen,T-Cross,2022,0,95,manual,gasoline,28040
+Volkswagen,Tiguan,2021,23563,150,automatic,gasoline,32890
+Volkswagen,Tiguan,2019,60562,150,automatic,diesel,29980
+Volkswagen,Golf,2016,79040,300,automatic,gasoline,27180
+Volkswagen,up,2020,14919,83,automatic,electric,23480
+Volkswagen,Golf,2017,68320,86,manual,gasoline,12930
+Volkswagen,up,2019,25696,60,manual,gasoline,10550
+Volkswagen,T6 Kombi,2021,21868,150,manual,diesel,46490
+Volkswagen,Tiguan,2019,14637,150,automatic,gasoline,35390
+Volkswagen,Golf,2019,37280,245,automatic,gasoline,27865
+Volkswagen,Polo,2020,23482,200,automatic,gasoline,24749
+Volkswagen,T6 Multivan,2020,11466,150,manual,diesel,56790
+Volkswagen,T-Roc,2022,6005,110,manual,gasoline,25990
+Volkswagen,Polo,2021,23117,110,manual,gasoline,20980
+Volkswagen,Touran,2022,7382,150,automatic,gasoline,38260
+Volkswagen,Golf,2022,25,131,manual,gasoline,29890
+Volkswagen,up,2021,4786,83,automatic,electric,22949
+Volkswagen,Touran,2019,135735,150,automatic,diesel,26370
+Volkswagen,Tiguan,2019,69900,150,automatic,diesel,31730
+Volkswagen,Touran,2022,27275,150,automatic,gasoline,34525
+Volkswagen,T-Roc,2019,32306,150,automatic,gasoline,26868
+Volkswagen,Tiguan,2022,15,150,manual,gasoline,33880
+Volkswagen,Golf Variant,2021,11398,131,automatic,gasoline,28890
+Volkswagen,T-Cross,2022,5963,110,manual,gasoline,23555
+Volkswagen,up,2019,14728,116,manual,gasoline,16840
+Volkswagen,Touran,2018,90085,150,manual,diesel,23930
+Volkswagen,Passat GTE Variant,2018,81002,156,automatic,Hybrid - gasoline,28990
+Volkswagen,Touran,2021,9816,150,automatic,diesel,45980
+Volkswagen,T-Cross,2022,16798,110,automatic,gasoline,25950
+Volkswagen,up,2019,56490,60,manual,gasoline,10350
+Volkswagen,Passat Variant,2020,19900,218,automatic,Hybrid - gasoline,37890
+Volkswagen,T-Cross,2020,10,110,automatic,gasoline,24388
+Volkswagen,Golf,2020,0,150,automatic,Hybrid - gasoline,49482
+Volkswagen,Caddy,2020,10,122,manual,diesel,36840
+Volkswagen,T-Roc,2019,28896,150,automatic,gasoline,26490
+Volkswagen,T-Cross,2019,45950,95,manual,gasoline,18890
+Volkswagen,Tiguan,2021,26400,150,automatic,gasoline,38485
+Volkswagen,T-Roc,2021,0,110,manual,gasoline,29937
+Volkswagen,T6 Kombi,2017,43321,102,manual,diesel,29900
+Volkswagen,Polo,2017,0,95,automatic,gasoline,26690
+Volkswagen,Touran,2020,53217,116,automatic,diesel,29930
+Volkswagen,Golf Sportsvan,2016,96744,110,manual,gasoline,13990
+Volkswagen,Golf,2022,5493,131,automatic,gasoline,30380
+Volkswagen,Golf,2018,32504,150,manual,gasoline,20311
+Volkswagen,Golf,2022,9170,150,manual,gasoline,28440
+Volkswagen,T-Cross,2021,4534,110,automatic,gasoline,25890
+Volkswagen,Golf Variant,2020,37650,150,automatic,diesel,24480
+Volkswagen,Touareg,2020,17190,286,automatic,diesel,76925
+Volkswagen,Touareg,2020,28754,286,automatic,diesel,68220
+Volkswagen,T-Roc,2019,24000,150,automatic,gasoline,26680
+Volkswagen,T6 Caravelle,2018,56200,150,automatic,diesel,44980
+Volkswagen,T-Roc,2022,12000,150,automatic,gasoline,28980
+Volkswagen,ID.4,2020,8849,204,automatic,electric,46950
+Volkswagen,Golf,2021,11437,300,automatic,gasoline,41980
+Volkswagen,Tiguan,2022,13300,200,automatic,diesel,46400
+Volkswagen,T-Cross,2021,12990,110,automatic,gasoline,26590
+Volkswagen,Touran,2021,20980,150,automatic,diesel,36980
+Volkswagen,Golf Variant,2021,39797,110,automatic,gasoline,24990
+Volkswagen,T-Cross,2021,15718,110,automatic,gasoline,23890
+Volkswagen,Passat Variant,2019,69260,150,manual,diesel,20991
+Volkswagen,Passat Variant,2019,90205,190,automatic,diesel,23988
+Volkswagen,Touareg,2019,66510,286,automatic,diesel,67890
+Volkswagen,Tiguan,2019,53504,150,manual,gasoline,32977
+Volkswagen,Golf,2019,40199,290,automatic,gasoline,32880
+Volkswagen,Caddy,2021,7788,122,manual,diesel,30950
+Volkswagen,T6 California,2022,100,204,automatic,diesel,87890
+Volkswagen,Passat Variant,2018,90231,150,automatic,diesel,21550
+Volkswagen,Golf,2018,0,150,automatic,Hybrid - gasoline,49762
+Volkswagen,Polo,2020,29175,200,automatic,gasoline,21940
+Volkswagen,Touareg,2019,61700,231,automatic,diesel,50020
+Volkswagen,Amarok,2019,60762,258,automatic,diesel,47490
+Volkswagen,Golf,2020,33400,150,manual,gasoline,26280
+Volkswagen,T6 Multivan,2019,42600,199,automatic,diesel,53990
+Volkswagen,Golf,2022,10945,110,manual,gasoline,25810
+Volkswagen,T-Roc,2022,7452,150,automatic,gasoline,34650
+Volkswagen,Golf,2021,21682,150,automatic,gasoline,29650
+Volkswagen,Golf,2021,0,150,automatic,Hybrid - gasoline,49762
+Volkswagen,up,2020,16181,83,automatic,electric,24250
+Volkswagen,Golf,2020,13786,131,manual,gasoline,24400
+Volkswagen,Golf,2019,31631,245,automatic,gasoline,27780
+Volkswagen,Golf,2021,30178,116,manual,diesel,24290
+Volkswagen,ID.3,2020,20584,204,automatic,electric,39947
+Volkswagen,Caddy,2018,12551,84,manual,gasoline,15931
+Volkswagen,Golf,2022,8037,150,manual,gasoline,25811
+Volkswagen,Golf Variant,2019,72528,184,automatic,diesel,26990
+Volkswagen,Golf,2019,0,245,automatic,Hybrid - gasoline,40690
+Volkswagen,Caddy,2021,12925,102,manual,diesel,32450
+Volkswagen,Tiguan,2018,97710,150,automatic,diesel,26790
+Volkswagen,T6 Multivan,2021,18710,150,automatic,diesel,60790
+Volkswagen,Golf Variant,2019,51693,116,automatic,diesel,19822
+Volkswagen,T-Roc,2021,2085,150,manual,gasoline,25980
+Volkswagen,Tiguan,2021,35245,200,automatic,diesel,43850
+Volkswagen,T6 Multivan,2021,12500,150,manual,diesel,49970
+Volkswagen,Golf,2019,26124,131,automatic,gasoline,22490
+Volkswagen,T-Roc,2019,0,150,automatic,gasoline,41209
+Volkswagen,Golf,2022,25276,150,automatic,diesel,29450
+Volkswagen,Crafter,2019,126052,140,manual,diesel,29980
+Volkswagen,Golf,2021,0,131,automatic,gasoline,39015
+Volkswagen,up,2019,47257,60,manual,gasoline,12870
+Volkswagen,Touareg,2018,130100,286,automatic,diesel,47777
+Volkswagen,Caddy,2018,10,102,manual,diesel,30480
+Volkswagen,Golf Sportsvan,2018,71683,131,manual,gasoline,17680
+Volkswagen,Touareg,2018,80100,262,automatic,diesel,41440
+Volkswagen,T6 California,2021,3308,150,automatic,diesel,86990
+Volkswagen,T-Roc,2019,109990,150,automatic,diesel,24830
+Volkswagen,T6 Multivan,2021,20394,110,manual,diesel,47980
+Volkswagen,Passat Variant,2019,28561,239,automatic,diesel,40290
+Volkswagen,Tiguan,2020,23053,230,automatic,gasoline,39570
+Volkswagen,T6 Caravelle,2021,12738,150,automatic,diesel,60950
+Volkswagen,Polo,2020,8709,200,automatic,gasoline,22422
+Volkswagen,Tiguan,2021,8644,150,automatic,diesel,39060
+Volkswagen,Golf,2021,11183,200,automatic,diesel,41390
+Volkswagen,T-Roc Cabriolet,2021,8641,150,manual,gasoline,33930
+Volkswagen,T-Roc,2021,0,150,automatic,gasoline,34680
+Volkswagen,Golf,2022,7914,110,automatic,gasoline,28190
+Volkswagen,Tiguan,2019,50690,150,manual,diesel,25800
+Volkswagen,Golf,2021,22383,200,automatic,diesel,36570
+Volkswagen,Golf,2022,6200,150,manual,gasoline,26810
+Volkswagen,Passat Variant,2022,0,190,automatic,gasoline,67710
+Volkswagen,Tiguan,2022,20000,190,automatic,gasoline,39850
+Volkswagen,Arteon,2020,32300,200,automatic,diesel,42300
+Volkswagen,Touran,2019,58063,116,manual,diesel,22330
+Volkswagen,T-Cross,2022,7976,110,manual,gasoline,24555
+Volkswagen,Golf Variant,2018,80340,116,automatic,diesel,16648
+Volkswagen,Tiguan,2020,19890,150,automatic,diesel,36820
+Volkswagen,Polo,2019,27247,80,manual,gasoline,16789
+Volkswagen,T-Cross,2019,18100,116,automatic,gasoline,24850
+Volkswagen,Caddy,2021,11826,102,manual,diesel,27460
+Volkswagen,Passat Variant,2018,76885,150,automatic,diesel,26930
+Volkswagen,Golf,2018,0,150,automatic,Hybrid - gasoline,37990
+Volkswagen,Golf,2020,19759,150,automatic,gasoline,32390
+Volkswagen,Golf,2022,7481,110,automatic,gasoline,29450
+Volkswagen,Taigo,2022,4900,110,automatic,gasoline,29490
+Volkswagen,T-Roc,2021,47493,110,manual,gasoline,24948
+Volkswagen,up,2019,54844,75,manual,gasoline,12490
+Volkswagen,T-Roc,2021,15113,150,manual,gasoline,25511
+Volkswagen,Taigo,2021,0,110,manual,gasoline,31395
+Volkswagen,Polo,2018,53183,95,manual,diesel,15700
+Volkswagen,Touran,2020,29200,122,manual,diesel,29888
+Volkswagen,Crafter,2022,300,140,manual,diesel,47690
+Volkswagen,Tiguan,2021,20642,230,automatic,gasoline,44890
+Volkswagen,Golf,2019,24418,245,automatic,gasoline,29480
+Volkswagen,Golf Variant,2021,8107,150,manual,gasoline,29880
+Volkswagen,Caddy,2021,0,122,manual,diesel,29690
+Volkswagen,Tiguan,2022,1,200,automatic,diesel,53990
+Volkswagen,Golf,2021,17022,116,manual,diesel,22390
+Volkswagen,Passat Variant,2018,71350,125,manual,gasoline,21400
+Volkswagen,Polo,2020,20441,200,automatic,gasoline,21970
+Volkswagen,Crafter,2020,0,102,manual,diesel,40592
+Volkswagen,T-Roc,2020,0,110,manual,gasoline,30722
+Volkswagen,Polo,2022,50,95,automatic,gasoline,24479
+Volkswagen,Golf,2022,7863,200,automatic,diesel,43760
+Volkswagen,Passat Variant,2019,94965,150,automatic,diesel,25490
+Volkswagen,Golf,2019,18371,245,automatic,gasoline,30990
+Volkswagen,Passat Variant,2019,84378,150,manual,diesel,26930
+Volkswagen,T-Roc,2021,3800,150,manual,gasoline,28820
+Volkswagen,Polo,2021,0,80,manual,gasoline,19275
+Volkswagen,T7 Multivan,2021,0,150,automatic,diesel,61980
+Volkswagen,Golf,2022,5952,131,manual,gasoline,27380
+Volkswagen,T-Cross,2019,21820,116,automatic,gasoline,23470
+Volkswagen,Tiguan,2020,25534,190,automatic,diesel,36988
+Volkswagen,T-Cross,2021,8149,110,manual,gasoline,23200
+Volkswagen,Tiguan,2021,11971,245,automatic,gasoline,53930
+Volkswagen,T-Cross,2021,7037,110,manual,gasoline,22620
+Volkswagen,Passat Variant,2019,52129,239,automatic,diesel,38444
+Volkswagen,T-Roc,2019,0,150,automatic,gasoline,41770
+Volkswagen,Touran,2021,22500,150,manual,gasoline,34930
+Volkswagen,Golf,2022,9190,116,automatic,diesel,29890
+Volkswagen,Touran,2022,30440,150,automatic,gasoline,31950
+Volkswagen,Tiguan,2021,15343,150,automatic,gasoline,37380
+Volkswagen,T-Cross,2021,0,110,manual,gasoline,29979
+Volkswagen,Golf,2017,90900,150,manual,diesel,18440
+Volkswagen,Golf,2017,0,245,automatic,Hybrid - gasoline,40950
+Volkswagen,Golf,2022,16216,150,automatic,diesel,28895
+Volkswagen,Golf Sportsvan,2018,49278,110,manual,gasoline,17390
+Volkswagen,T-Roc,2019,67066,150,automatic,gasoline,25490
+Volkswagen,Crafter,2021,34335,177,manual,diesel,44960
+Volkswagen,T-Roc,2022,15600,150,automatic,gasoline,30990
+Volkswagen,T-Roc,2021,10529,150,automatic,gasoline,33595
+Volkswagen,T6 Kombi,2021,24348,150,automatic,diesel,48990
+Volkswagen,Crafter,2021,10,140,manual,diesel,44988
+Volkswagen,Caddy,2022,1610,122,manual,diesel,34747
+Volkswagen,T-Roc,2021,6749,150,automatic,gasoline,31960
+Volkswagen,Polo,2018,52072,116,manual,gasoline,16570
+Volkswagen,Golf Variant,2018,0,320,automatic,gasoline,56480
+Volkswagen,T6,2021,12083,150,automatic,diesel,74380
+Volkswagen,Tiguan,2022,19800,150,automatic,gasoline,37870
+Volkswagen,T-Roc Cabriolet,2022,0,150,automatic,gasoline,41480
+Volkswagen,Passat Variant,2021,12941,150,automatic,diesel,31350
+Volkswagen,T-Roc,2022,7000,150,automatic,diesel,34880
+Volkswagen,Golf,2021,20700,300,automatic,gasoline,40770
+Volkswagen,Golf Variant,2018,56623,150,automatic,gasoline,24380
+Volkswagen,Touran,2022,8500,150,manual,gasoline,31880
+Volkswagen,Touran,2017,81044,150,manual,diesel,24450
+Volkswagen,T-Roc,2022,10398,150,automatic,gasoline,31950
+Volkswagen,Amarok,2019,49499,204,manual,diesel,49985
+Volkswagen,Golf,2019,0,200,automatic,diesel,48775
+Volkswagen,T-Cross,2019,0,150,automatic,gasoline,35500
+Volkswagen,Golf Variant,2021,31611,150,automatic,diesel,29920
+Volkswagen,Tiguan,2019,63066,190,automatic,gasoline,36270
+Volkswagen,Tiguan,2018,48995,150,manual,gasoline,22989
+Volkswagen,T6 Multivan,2019,8376,150,manual,diesel,43992
+Volkswagen,Passat Alltrack,2020,16920,190,automatic,diesel,35922
+Volkswagen,Tiguan,2020,10400,150,automatic,gasoline,37980
+Volkswagen,Golf Variant,2020,15104,131,manual,gasoline,21460
+Volkswagen,ID.4,2020,16710,204,automatic,electric,51840
+Volkswagen,Golf Variant,2022,3440,110,automatic,gasoline,29980
+Volkswagen,T-Roc Cabriolet,2021,4000,150,automatic,gasoline,33950
+Volkswagen,T-Roc Cabriolet,2021,0,110,manual,gasoline,35890
+Volkswagen,Arteon,2022,3613,190,automatic,gasoline,42990
+Volkswagen,T-Cross,2022,0,95,manual,gasoline,25920
+Volkswagen,T-Roc,2021,15081,150,manual,gasoline,27850
+Volkswagen,Golf Variant,2022,9990,190,automatic,gasoline,41990
+Volkswagen,T-Roc,2022,0,150,automatic,gasoline,39469
+Volkswagen,Passat Variant,2021,15949,150,automatic,gasoline,32990
+Volkswagen,T-Cross,2021,0,110,automatic,gasoline,32805
+Volkswagen,up,2021,11549,65,manual,gasoline,15400
+Volkswagen,Touran,2017,67805,150,automatic,gasoline,25490
+Volkswagen,T-Roc,2019,20440,150,automatic,gasoline,27290
+Volkswagen,T-Cross,2021,7439,110,manual,gasoline,24990
+Volkswagen,T-Cross,2021,5940,110,automatic,gasoline,25930
+Volkswagen,Passat Variant,2017,44303,156,automatic,Hybrid - gasoline,31980
+Volkswagen,Passat Variant,2017,80351,190,automatic,diesel,30330
+Volkswagen,Tiguan,2017,64500,150,automatic,diesel,32390
+Volkswagen,Tiguan,2021,6890,131,manual,gasoline,30980
+Volkswagen,Beetle,2018,69300,105,manual,gasoline,21930
+Volkswagen,Touran,2021,17854,150,automatic,gasoline,32990
+Volkswagen,up,2021,0,65,manual,gasoline,17180
+Volkswagen,California,2022,438,177,automatic,diesel,74979
+Volkswagen,T-Roc,2019,32375,150,automatic,gasoline,27290
+Volkswagen,Passat Variant,2019,28492,150,manual,diesel,26830
+Volkswagen,Golf,2022,9687,116,manual,diesel,26480
+Volkswagen,Golf,2021,11300,200,automatic,diesel,38950
+Volkswagen,Caddy,2021,21518,75,manual,diesel,40990
+Volkswagen,Caddy,2022,10,102,manual,diesel,30670
+Volkswagen,Golf,2022,10824,110,automatic,gasoline,26930
+Volkswagen,Caddy,2018,94740,102,manual,gasoline,17489
+Volkswagen,Golf,2021,18752,150,automatic,gasoline,31450
+Volkswagen,Passat Variant,2019,66652,120,automatic,diesel,22177
+Volkswagen,T6,2022,1200,90,manual,diesel,39980
+Volkswagen,T-Cross,2022,0,95,automatic,gasoline,25430
+Volkswagen,Golf,2018,38440,116,manual,diesel,18410
+Volkswagen,Polo,2020,16774,200,automatic,gasoline,21490
+Volkswagen,T6 Caravelle,2021,9779,150,automatic,diesel,52970
+Volkswagen,Polo,2020,26664,200,automatic,gasoline,23680
+Volkswagen,T-Cross,2021,37718,95,manual,gasoline,19826
+Volkswagen,T-Roc,2021,6383,150,manual,gasoline,28880
+Volkswagen,T6 California,2022,25,204,automatic,diesel,89490
+Volkswagen,T-Roc,2022,41,150,automatic,gasoline,41695
+Volkswagen,Tiguan,2018,58880,150,automatic,diesel,31590
+Volkswagen,Golf,2021,33486,116,manual,diesel,25390
+Volkswagen,Tiguan,2022,15588,150,automatic,gasoline,36366
+Volkswagen,Golf Sportsvan,2019,35956,150,automatic,gasoline,22080
+Volkswagen,Golf,2019,36100,150,automatic,diesel,29790
+Volkswagen,T6,2019,0,110,manual,diesel,40690
+Volkswagen,Golf,2019,0,131,manual,gasoline,38290
+Volkswagen,Tiguan,2022,125,150,automatic,gasoline,40750
+Volkswagen,Tiguan,2021,5357,150,manual,gasoline,34430
+Volkswagen,T-Cross,2021,0,95,manual,gasoline,21063
+Volkswagen,Touareg,2019,93179,286,automatic,diesel,61930
+Volkswagen,Passat Variant,2018,72200,150,automatic,gasoline,24280
+Volkswagen,Tiguan,2020,9822,150,automatic,gasoline,32970
+Volkswagen,Passat Variant,2020,22546,156,automatic,Hybrid - gasoline,39780
+Volkswagen,T6,2020,50,150,manual,diesel,44690
+Volkswagen,T6 Multivan,2017,70699,150,automatic,diesel,38900
+Volkswagen,Taigo,2017,0,110,manual,gasoline,27680
+Volkswagen,T-Roc,2021,20250,150,manual,gasoline,33490
+Volkswagen,Polo,2022,3000,110,automatic,gasoline,33890
+Volkswagen,T6 California,2020,0,150,automatic,diesel,94769
+Volkswagen,Passat Variant,2020,69188,218,automatic,Hybrid - gasoline,37720
+Volkswagen,T-Cross,2020,12693,95,manual,gasoline,20870
+Volkswagen,Golf Variant,2021,13960,150,automatic,gasoline,36990
+Volkswagen,Crafter,2017,0,102,manual,diesel,50947
+Volkswagen,up,2018,14231,75,manual,gasoline,11480
+Volkswagen,Tiguan,2018,89570,150,automatic,diesel,32290
+Volkswagen,Tiguan,2021,24820,150,automatic,diesel,33980
+Volkswagen,T6 Caravelle,2016,30078,102,manual,diesel,31888
+Volkswagen,Golf,2016,0,200,automatic,diesel,43829
+Volkswagen,T-Cross,2021,45781,110,manual,gasoline,23998
+Volkswagen,Polo,2019,36475,95,automatic,diesel,15960
+Volkswagen,Golf,2019,27856,116,manual,diesel,18979
+Volkswagen,Golf,2021,6636,116,automatic,diesel,27860
+Volkswagen,Touran,2022,19680,150,automatic,gasoline,33925
+Volkswagen,Crafter,2022,0,140,manual,diesel,51800
+Volkswagen,Tiguan,2022,50,150,automatic,Hybrid - gasoline,58767
+Volkswagen,T-Roc,2021,4947,116,manual,diesel,33530
+Volkswagen,T-Roc,2021,10350,150,automatic,gasoline,30879
+Volkswagen,T6,2018,92365,150,manual,gasoline,24900
+Volkswagen,Golf Variant,2022,1,131,automatic,gasoline,40080
+Volkswagen,Golf,2020,10300,131,manual,gasoline,24950
+Volkswagen,Golf,2022,6771,110,manual,gasoline,26976
+Volkswagen,Tiguan,2020,27024,190,automatic,gasoline,38470
+Volkswagen,up,2021,90,83,automatic,electric,25950
+Volkswagen,Passat Variant,2020,9111,150,automatic,gasoline,32290
+Volkswagen,Golf Variant,2021,30857,110,manual,gasoline,26040
+Volkswagen,T6,2018,55050,102,manual,diesel,27550
+Volkswagen,T6,2020,31979,150,automatic,diesel,47990
+Volkswagen,Golf,2020,0,245,automatic,Hybrid - gasoline,41790
+Volkswagen,T6 Multivan,2018,11447,150,manual,diesel,49900
+Volkswagen,T-Cross,2022,4900,110,automatic,gasoline,29570
+Volkswagen,Golf Variant,2019,92222,150,automatic,diesel,22630
+Volkswagen,Caddy,2019,10,102,manual,diesel,30480
+Volkswagen,ID.3,2020,29000,204,automatic,electric,41980
+Volkswagen,Caddy,2022,1500,102,manual,diesel,28669
+Volkswagen,Golf Sportsvan,2019,25738,86,manual,gasoline,18350
+Volkswagen,T6,2019,0,110,manual,diesel,44708
+Volkswagen,Golf,2021,35947,150,manual,gasoline,24790
+Volkswagen,Tiguan,2017,27434,179,automatic,gasoline,34930
+Volkswagen,Passat Variant,2019,46010,190,automatic,diesel,29770
+Volkswagen,Passat Variant,2021,56450,150,automatic,diesel,29490
+Volkswagen,Touran,2018,101990,116,manual,diesel,19940
+Volkswagen,Polo,2018,0,110,automatic,gasoline,33580
+Volkswagen,Tiguan,2019,125153,239,automatic,diesel,32430
+Volkswagen,Tiguan,2019,37522,190,automatic,gasoline,32896
+Volkswagen,T-Roc,2020,37000,190,automatic,diesel,35770
+Volkswagen,Tiguan,2021,14660,150,manual,gasoline,35790
+Volkswagen,T7 Multivan,2018,0,150,automatic,diesel,63908
+Volkswagen,T-Roc,2018,0,150,automatic,gasoline,39469
+Volkswagen,T-Roc,2021,11219,150,automatic,gasoline,35388
+Volkswagen,Tiguan,2019,39720,190,automatic,diesel,41820
+Volkswagen,Golf,2019,26848,300,automatic,gasoline,33950
+Volkswagen,Tiguan,2019,10,200,automatic,diesel,51990
+Volkswagen,Polo,2019,39878,95,manual,diesel,15210
+Volkswagen,Golf Variant,2022,10400,110,manual,gasoline,34975
+Volkswagen,Touran,2021,16700,150,manual,gasoline,31440
+Volkswagen,Tiguan,2018,88090,150,manual,gasoline,24220
+Volkswagen,Caddy,2021,15353,122,automatic,diesel,36970
+Volkswagen,Arteon,2021,0,200,automatic,diesel,74100
+Volkswagen,T-Roc,2021,8,110,manual,gasoline,24990
+Volkswagen,Golf Variant,2019,92384,116,automatic,diesel,16888
+Volkswagen,T-Roc,2018,28233,190,automatic,gasoline,26481
+Volkswagen,Polo,2018,0,80,manual,gasoline,18675
+Volkswagen,Tiguan,2019,62850,150,automatic,diesel,27890
+Volkswagen,T-Roc Cabriolet,2019,0,110,manual,gasoline,35735
+Volkswagen,Arteon,2019,0,320,automatic,gasoline,68550
+Volkswagen,Golf,2019,99065,150,automatic,diesel,21444
+Volkswagen,Caddy,2019,0,122,manual,diesel,32505
+Volkswagen,T6 California,2022,10,150,automatic,diesel,76395
+Volkswagen,Caddy,2022,15,122,automatic,diesel,46790
+Volkswagen,Golf Variant,2021,13300,110,manual,gasoline,27975
+Volkswagen,Polo,2022,7247,110,automatic,gasoline,27240
+Volkswagen,T6,2022,0,110,manual,diesel,40906
+Volkswagen,Tiguan,2017,61510,125,manual,gasoline,22930
+Volkswagen,T-Roc,2022,100,150,automatic,gasoline,35990
+Volkswagen,T-Roc,2018,27652,190,automatic,gasoline,25980
+Volkswagen,Golf,2019,45935,150,automatic,gasoline,22430
+Volkswagen,Polo,2018,12900,200,automatic,gasoline,22985
+Volkswagen,Tiguan,2021,19700,200,automatic,diesel,47530
+Volkswagen,T-Roc,2022,1,150,automatic,gasoline,34870
+Volkswagen,Crafter,2018,72596,177,automatic,diesel,39889
+Volkswagen,Tiguan,2018,0,190,automatic,gasoline,48990
+Volkswagen,Taigo,2022,3333,110,automatic,gasoline,27570
+Volkswagen,Golf,2021,10910,116,manual,diesel,25460
+Volkswagen,Touran,2021,10,150,automatic,gasoline,43950
+Volkswagen,T-Roc,2021,6500,110,manual,gasoline,25880
+Volkswagen,Touran,2022,15486,150,automatic,diesel,35990
+Volkswagen,Passat Variant,2022,8999,156,automatic,Hybrid - gasoline,41888
+Volkswagen,Golf Variant,2022,8771,150,automatic,diesel,35939
+Volkswagen,Passat Variant,2019,85278,190,automatic,diesel,29890
+Volkswagen,Tiguan,2019,71571,190,automatic,diesel,34980
+Volkswagen,Golf,2019,55227,245,automatic,gasoline,27790
+Volkswagen,Passat Variant,2019,47750,150,automatic,gasoline,27490
+Volkswagen,T6,2022,10,110,manual,diesel,37961
+Volkswagen,Golf,2019,36694,116,manual,gasoline,18490
+Volkswagen,Golf Variant,2019,20693,150,automatic,gasoline,29940
+Volkswagen,Polo,2019,56700,80,manual,diesel,14930
+Volkswagen,T-Cross,2022,1000,110,automatic,gasoline,28790
+Volkswagen,Polo,2022,10,95,manual,gasoline,22876
+Volkswagen,Golf Variant,2016,64700,184,manual,diesel,19990
+Volkswagen,Golf Variant,2020,55500,116,manual,diesel,18833
+Volkswagen,Arteon,2022,6000,150,automatic,diesel,59993
+Volkswagen,T-Roc,2022,10,190,automatic,gasoline,46755
+Volkswagen,Golf,2018,39100,150,manual,gasoline,19550
+Volkswagen,Tiguan,2021,18686,150,automatic,diesel,39930
+Volkswagen,Golf Variant,2022,8060,131,automatic,gasoline,30990
+Volkswagen,up,2022,3511,83,automatic,electric,23858
+Volkswagen,Taigo,2022,10,110,automatic,gasoline,26590
+Volkswagen,Touran,2022,6200,150,automatic,diesel,44986
+Volkswagen,Taigo,2022,50,110,automatic,gasoline,31990
+Volkswagen,Touran,2022,23620,150,automatic,gasoline,36480
+Volkswagen,T-Roc Cabriolet,2022,10,150,automatic,gasoline,36490
+Volkswagen,Tiguan,2022,0,200,automatic,diesel,56400
+Volkswagen,T-Roc,2020,18755,300,automatic,gasoline,37491
+Volkswagen,Passat Variant,2021,27843,122,automatic,diesel,29989
+Volkswagen,Touran,2021,24800,150,manual,gasoline,31940
+Volkswagen,Tiguan,2020,29771,190,automatic,diesel,35980
+Volkswagen,Golf,2019,40735,116,manual,diesel,17980
+Volkswagen,Golf,2022,8300,150,automatic,diesel,32850
+Volkswagen,T-Cross,2022,10,110,automatic,gasoline,28790
+Volkswagen,Touran,2021,25122,150,automatic,gasoline,41520
+Volkswagen,Tiguan,2020,46079,150,automatic,diesel,37890
+Volkswagen,T-Roc,2021,10609,150,automatic,gasoline,29990
+Volkswagen,T6 California,2019,47040,150,automatic,diesel,59999
+Volkswagen,Golf,2019,73900,116,automatic,diesel,19980
+Volkswagen,Crafter,2021,58422,140,manual,diesel,36800
+Volkswagen,Golf,2022,25300,200,automatic,diesel,37340
+Volkswagen,T-Roc,2022,0,150,automatic,gasoline,33980
+Volkswagen,Tiguan,2018,52050,179,automatic,gasoline,29930
+Volkswagen,Caddy,2018,15,102,manual,diesel,43290
+Volkswagen,T-Roc,2022,8040,116,manual,diesel,29990
+Volkswagen,T-Roc,2021,8146,110,manual,gasoline,27530
+Volkswagen,Taigo,2021,0,150,automatic,gasoline,35990
+Volkswagen,California,2021,0,177,automatic,diesel,89900
+Volkswagen,T-Cross,2021,4850,110,manual,gasoline,26990
+Volkswagen,T-Roc,2022,5042,116,manual,diesel,28990
+Volkswagen,Golf Variant,2022,10,320,automatic,gasoline,69630
+Volkswagen,Golf,2019,11500,131,manual,gasoline,23830
+Volkswagen,Polo,2020,36283,200,automatic,gasoline,24557
+Volkswagen,Golf,2022,20350,110,automatic,gasoline,26990
+Volkswagen,Passat Variant,2018,121860,179,automatic,gasoline,20990
+Volkswagen,Touran,2019,14634,150,manual,gasoline,30980
+Volkswagen,T-Roc,2019,31490,116,manual,diesel,22990
+Volkswagen,T-Cross,2021,23509,150,automatic,gasoline,27250
+Volkswagen,Golf,2022,21100,200,automatic,diesel,38900
+Volkswagen,Tiguan,2022,19400,190,automatic,gasoline,40850
+Volkswagen,Golf Variant,2016,117942,150,automatic,gasoline,15930
+Volkswagen,Tiguan,2020,88621,150,manual,diesel,25979
+Volkswagen,Caddy,2020,0,114,manual,gasoline,29460
+Volkswagen,Passat Variant,2019,134225,150,automatic,diesel,21990
+Volkswagen,T-Roc,2022,100,150,automatic,gasoline,35491
+Volkswagen,T6 Kombi,2022,29716,150,automatic,diesel,46990
+Volkswagen,Golf Variant,2022,10,190,automatic,gasoline,50444
+Volkswagen,Golf,2022,4704,110,manual,gasoline,27490
+Volkswagen,Golf,2022,0,150,automatic,diesel,43440
+Volkswagen,Golf,2020,18699,150,manual,gasoline,28980
+Volkswagen,Crafter,2019,121609,140,manual,diesel,30800
+Volkswagen,Golf Variant,2021,11000,110,manual,gasoline,24888
+Volkswagen,T6,2021,0,110,manual,diesel,49441
+Volkswagen,up,2021,2738,83,automatic,electric,23850
+Volkswagen,Tiguan,2021,12480,150,manual,gasoline,33440
+Volkswagen,Golf,2019,22622,150,automatic,gasoline,25555
+Volkswagen,Tiguan,2018,58600,125,manual,gasoline,20930
+Volkswagen,Polo,2019,51657,95,automatic,diesel,17425
+Volkswagen,Touran,2019,1,150,manual,gasoline,42980
+Volkswagen,Passat Variant,2018,62978,190,automatic,diesel,27922
+Volkswagen,T6,2018,71845,150,manual,diesel,28950
+Volkswagen,Golf,2019,77500,184,automatic,diesel,24490
+Volkswagen,Polo,2022,6207,95,manual,gasoline,24990
+Volkswagen,Tiguan,2022,0,150,automatic,diesel,58890
+Volkswagen,Sharan,2020,23633,150,automatic,diesel,39150
+Volkswagen,California,2021,34000,122,automatic,diesel,37950
+Volkswagen,Tiguan,2022,10,150,manual,gasoline,36890
+Volkswagen,Crafter,2021,25270,140,manual,diesel,45650
+Volkswagen,Golf,2022,23373,150,automatic,diesel,28890
+Volkswagen,Golf,2018,54724,116,manual,gasoline,16790
+Volkswagen,T6,2018,10,110,manual,diesel,40480
+Volkswagen,Polo,2019,16720,65,manual,gasoline,14400
+Volkswagen,T-Cross,2019,0,110,automatic,gasoline,33205
+Volkswagen,Caddy,2019,15,114,automatic,gasoline,49990
+Volkswagen,T-Roc,2022,25400,150,automatic,gasoline,31888
+Volkswagen,Golf Variant,2019,81459,184,automatic,diesel,26691
+Volkswagen,Polo,2018,24459,116,manual,gasoline,17810
+Volkswagen,T6 Kombi,2020,9980,150,manual,diesel,48700
+Volkswagen,Tiguan,2019,82670,239,automatic,diesel,39430
+Volkswagen,up,2019,14829,75,manual,gasoline,12790
+Volkswagen,Golf,2022,4381,131,manual,gasoline,26880
+Volkswagen,T6 Multivan,2021,21700,150,automatic,diesel,60999
+Volkswagen,Golf,2017,100620,230,manual,gasoline,19900
+Volkswagen,Golf,2021,12373,200,automatic,diesel,37450
+Volkswagen,T-Cross,2021,8965,110,manual,gasoline,24900
+Volkswagen,Touareg,2017,98555,262,automatic,diesel,37950
+Volkswagen,T-Cross,2021,5120,110,automatic,gasoline,26690
+Volkswagen,up,2021,163,83,automatic,electric,24949
+Volkswagen,Golf,2019,13995,136,automatic,electric,29930
+Volkswagen,Polo,2022,20,95,manual,gasoline,22890
+Volkswagen,Golf Variant,2021,34541,150,automatic,diesel,31430
+Volkswagen,T6 Caravelle,2021,20501,150,automatic,diesel,44980
+Volkswagen,Golf,2022,25348,150,automatic,diesel,28290
+Volkswagen,T6 California,2022,10,150,automatic,diesel,78395
+Volkswagen,Polo,2015,72150,60,manual,gasoline,8750
+Volkswagen,Arteon,2018,33304,280,automatic,gasoline,37490
+Volkswagen,T-Cross,2021,5005,110,manual,gasoline,25470
+Volkswagen,Golf Sportsvan,2019,7000,150,automatic,gasoline,26450
+Volkswagen,Golf Variant,2020,36781,300,automatic,gasoline,40930
+Volkswagen,Golf,2019,18471,116,manual,gasoline,19480
+Volkswagen,Tiguan,2021,27740,190,automatic,diesel,44930
+Volkswagen,Tiguan,2018,43515,150,automatic,gasoline,26477
+Volkswagen,Tiguan,2020,23001,230,automatic,gasoline,36950
+Volkswagen,Polo,2019,60000,95,manual,diesel,16880
+Volkswagen,Tiguan,2019,45022,190,automatic,gasoline,34830
+Volkswagen,T-Roc,2022,5827,150,automatic,gasoline,33980
+Volkswagen,Arteon,2021,18750,190,automatic,gasoline,49888
+Volkswagen,Golf,2019,35008,116,manual,gasoline,19940
+Volkswagen,T6 Multivan,2022,6000,150,automatic,diesel,62950
+Volkswagen,Golf,2022,30,150,automatic,gasoline,34950
+Volkswagen,T7 Multivan,2022,0,204,automatic,gasoline,58780
+Volkswagen,T-Roc,2022,8,150,automatic,gasoline,42924
+Volkswagen,T6 Multivan,2021,21400,199,automatic,diesel,64960
+Volkswagen,Taigo,2021,0,150,automatic,gasoline,31680
+Volkswagen,T-Roc Cabriolet,2021,18322,150,manual,gasoline,32480
+Volkswagen,T-Roc,2022,100,110,manual,gasoline,24850
+Volkswagen,Golf,2022,14113,150,automatic,diesel,29240
+Volkswagen,Caddy,2018,114536,102,manual,diesel,17480
+Volkswagen,Golf,2021,34800,150,automatic,diesel,26790
+Volkswagen,Touran,2021,9597,150,automatic,gasoline,38888
+Volkswagen,Crafter,2018,131650,140,manual,diesel,27950
+Volkswagen,T-Cross,2019,37727,116,automatic,gasoline,20990
+Volkswagen,Golf Sportsvan,2019,83860,150,automatic,diesel,22990
+Volkswagen,T6 Multivan,2017,68600,102,manual,diesel,32890
+Volkswagen,Sharan,2020,59766,177,automatic,diesel,46150
+Volkswagen,up,2022,1500,65,manual,gasoline,15980
+Volkswagen,T-Cross,2022,0,110,manual,gasoline,33100
+Volkswagen,Golf Variant,2019,98312,116,automatic,diesel,17888
+Volkswagen,Polo,2020,34031,200,automatic,gasoline,24390
+Volkswagen,Polo,2020,0,207,automatic,gasoline,36736
+Volkswagen,T6 Multivan,2020,0,204,automatic,diesel,112282
+Volkswagen,Tiguan,2020,36554,190,automatic,gasoline,38390
+Volkswagen,Passat Variant,2021,28360,150,automatic,diesel,38050
+Volkswagen,up,2021,7208,83,automatic,electric,23430
+Volkswagen,Taigo,2022,8500,110,automatic,gasoline,33455
+Volkswagen,California,2022,0,177,automatic,diesel,89590
+Volkswagen,T-Cross,2021,15400,110,manual,gasoline,23880
+Volkswagen,up,2021,1675,83,automatic,electric,25950
+Volkswagen,T-Roc,2022,10,150,manual,gasoline,32900
+Volkswagen,Tiguan,2021,10880,150,manual,gasoline,34390
+Volkswagen,Passat Variant,2021,35200,190,automatic,gasoline,31730
+Volkswagen,Golf,2021,0,150,automatic,gasoline,38290
+Volkswagen,Passat Variant,2021,25204,122,automatic,diesel,30499
+Volkswagen,Polo,2022,15,207,automatic,gasoline,33490
+Volkswagen,Passat Variant,2019,66577,150,manual,diesel,21979
+Volkswagen,up,2019,71400,60,manual,gasoline,9250
+Volkswagen,Golf Variant,2021,35750,110,automatic,gasoline,24440
+Volkswagen,T6,2022,125,110,manual,diesel,37690
+Volkswagen,up,2017,31250,60,manual,gasoline,10750
+Volkswagen,Golf Variant,2020,74307,150,automatic,diesel,22977
+Volkswagen,T-Roc,2021,12725,150,automatic,diesel,36312
+Volkswagen,Polo,2019,37974,80,manual,gasoline,14480
+Volkswagen,Taigo,2019,10,110,manual,gasoline,31495
+Volkswagen,T-Cross,2022,7719,110,manual,gasoline,23580
+Volkswagen,Tiguan,2022,0,150,automatic,gasoline,50718
+Volkswagen,Golf,2019,67500,116,manual,diesel,17880
+Volkswagen,Golf,2021,11264,110,manual,gasoline,24880
+Volkswagen,T6 Multivan,2021,17539,150,automatic,diesel,53990
+Volkswagen,T-Roc,2022,10600,150,automatic,diesel,39880
+Volkswagen,Golf,2019,56004,290,automatic,gasoline,29980
+Volkswagen,T6 Kombi,2016,84700,150,manual,diesel,31980
+Volkswagen,Caddy,2016,15,122,automatic,diesel,42490
+Volkswagen,Polo,2019,84631,95,automatic,diesel,15921
+Volkswagen,Golf Variant,2021,17455,131,automatic,gasoline,28430
+Volkswagen,Golf,2022,1778,131,manual,gasoline,29900
+Volkswagen,Caddy,2021,9470,75,manual,diesel,28880
+Volkswagen,Caddy,2021,1081,122,automatic,diesel,37970
+Volkswagen,Golf,2021,33491,150,manual,gasoline,23870
+Volkswagen,T6 Multivan,2020,1012,150,automatic,diesel,54890
+Volkswagen,Polo,2018,61336,95,manual,gasoline,16980
+Volkswagen,Golf,2019,54612,150,automatic,diesel,23420
+Volkswagen,Tiguan,2018,79520,125,manual,gasoline,20800
+Volkswagen,Crafter,2022,1200,140,manual,diesel,43980
+Volkswagen,Golf,2021,23729,320,automatic,gasoline,47990
+Volkswagen,Golf,2022,0,204,automatic,Hybrid - gasoline,45890
+Volkswagen,Golf,2019,34325,131,manual,gasoline,19880
+Volkswagen,T-Roc,2020,10281,150,automatic,gasoline,31333
+Volkswagen,T-Roc,2020,0,110,manual,gasoline,29450
+Volkswagen,Golf Variant,2015,68000,125,manual,gasoline,15690
+Volkswagen,Passat Variant,2022,7160,150,manual,gasoline,35970
+Volkswagen,T6 Multivan,2022,0,204,automatic,diesel,79860
+Volkswagen,Passat Variant,2020,24247,190,automatic,diesel,36980
+Volkswagen,Caddy,2022,1046,102,manual,diesel,29970
+Volkswagen,Tiguan,2022,15300,200,automatic,diesel,56960
+Volkswagen,Polo,2018,12900,200,automatic,gasoline,21985
+Volkswagen,T-Roc,2021,15400,116,manual,diesel,28790
+Volkswagen,T6 Multivan,2021,11568,110,manual,diesel,43980
+Volkswagen,T6 California,2021,0,150,automatic,diesel,95990
+Volkswagen,Passat Alltrack,2018,84150,239,automatic,diesel,30070
+Volkswagen,Tiguan,2022,33800,200,automatic,diesel,47190
+Volkswagen,T6 Caravelle,2022,10,150,manual,diesel,48988
+Volkswagen,Golf,2021,21759,150,automatic,gasoline,33950
+Volkswagen,Golf,2017,42648,110,manual,gasoline,15422
+Volkswagen,Golf,2022,1060,200,automatic,diesel,39947
+Volkswagen,T-Roc,2019,50100,150,automatic,diesel,28990
+Volkswagen,Caddy,2019,15,114,manual,gasoline,41490
+Volkswagen,Tiguan,2017,67196,150,manual,gasoline,24988
+Volkswagen,Passat Variant,2019,112200,150,automatic,diesel,19780
+Volkswagen,Golf Variant,2017,61535,150,manual,diesel,17450
+Volkswagen,Golf,2021,22898,116,automatic,diesel,27800
+Volkswagen,Touareg,2020,36790,462,automatic,Hybrid - gasoline,83950
+Volkswagen,Beetle,2018,34484,220,manual,gasoline,37888
+Volkswagen,T-Cross,2018,5,150,automatic,gasoline,28500
+Volkswagen,Crafter,2016,34079,109,manual,diesel,22900
+Volkswagen,Golf,2022,14642,150,automatic,diesel,31990
+Volkswagen,Golf Sportsvan,2018,67900,150,automatic,gasoline,22450
+Volkswagen,Golf Variant,2021,9240,131,automatic,gasoline,31380
+Volkswagen,Tiguan,2020,51956,230,automatic,gasoline,33980
+Volkswagen,Sharan,2019,59597,150,manual,diesel,30980
+Volkswagen,T-Cross,2022,10,110,automatic,gasoline,27488
+Volkswagen,Golf,2021,19270,245,automatic,gasoline,37999
+Volkswagen,T-Roc Cabriolet,2020,0,150,automatic,Hybrid - gasoline,40870
+Volkswagen,California,2020,0,114,manual,gasoline,40550
+Volkswagen,T-Roc,2022,10000,300,automatic,gasoline,51922
+Volkswagen,T6 Caravelle,2021,20501,150,automatic,diesel,45790
+Volkswagen,Golf,2021,15315,245,automatic,gasoline,40430
+Volkswagen,Polo,2021,0,110,automatic,gasoline,29570
+Volkswagen,Caddy,2019,39700,102,manual,gasoline,19995
+Volkswagen,Polo,2019,10,207,automatic,gasoline,37490
+Volkswagen,Beetle,2017,25571,105,manual,gasoline,22949
+Volkswagen,Tiguan,2018,91423,239,automatic,diesel,35840
+Volkswagen,Tiguan,2019,85953,150,manual,diesel,29880
+Volkswagen,T-Roc Cabriolet,2019,0,150,automatic,gasoline,46226
+Volkswagen,Golf,2021,7900,245,automatic,gasoline,36950
+Volkswagen,T-Roc,2022,50,150,manual,gasoline,30888
+Volkswagen,Golf Variant,2021,7522,131,automatic,gasoline,36698
+Volkswagen,Polo,2022,1500,110,automatic,gasoline,26899
+Volkswagen,Golf Variant,2021,36700,110,automatic,gasoline,24870
+Volkswagen,Tiguan,2021,14350,150,automatic,diesel,34950
+Volkswagen,Taigo,2021,10,150,automatic,gasoline,40180
+Volkswagen,T6 Multivan,2020,0,204,automatic,diesel,86980
+Volkswagen,Passat Variant,2019,43300,120,automatic,diesel,22490
+Volkswagen,T-Cross,2021,19114,110,automatic,gasoline,25400
+Volkswagen,T7 Multivan,2022,2500,150,automatic,Hybrid - gasoline,79980
+Volkswagen,Polo,2020,21130,200,automatic,gasoline,25850
+Volkswagen,Caddy,2020,14000,102,manual,gasoline,19840
+Volkswagen,Golf,2022,15040,150,automatic,gasoline,38990
+Volkswagen,T-Cross,2021,553,110,manual,gasoline,22978
+Volkswagen,Tiguan,2021,5802,245,automatic,Hybrid - gasoline,51980
+Volkswagen,Arteon,2021,0,200,automatic,diesel,63900
+Volkswagen,Golf,2021,5308,110,manual,gasoline,25990
+Volkswagen,Caddy,2020,80876,150,automatic,diesel,31980
+Volkswagen,Tiguan,2020,35100,190,automatic,diesel,35480
+Volkswagen,up,2022,7,83,automatic,electric,24990
+Volkswagen,Passat Variant,2017,105950,150,automatic,gasoline,20990
+Volkswagen,T-Cross,2022,11414,95,manual,gasoline,23480
+Volkswagen,T-Cross,2021,5100,110,automatic,gasoline,27835
+Volkswagen,Polo,2018,41023,95,manual,diesel,16880
+Volkswagen,Polo,2019,41598,95,manual,gasoline,18330
+Volkswagen,Golf Variant,2022,10,131,automatic,gasoline,33950
+Volkswagen,Touran,2021,26021,150,manual,gasoline,32980
+Volkswagen,Tiguan,2021,22435,150,automatic,diesel,36880
+Volkswagen,T6,2022,125,110,manual,diesel,38990
+Volkswagen,Tiguan,2022,12500,245,automatic,Hybrid - gasoline,52890
+Volkswagen,T-Cross,2021,3800,110,manual,gasoline,25150
+Volkswagen,Golf,2018,63068,245,automatic,gasoline,25980
+Volkswagen,T-Roc,2022,10,150,automatic,gasoline,32590
+Volkswagen,Caddy,2020,42154,150,automatic,gasoline,30930
+Volkswagen,Amarok,2019,42304,258,automatic,diesel,44985
+Volkswagen,Caddy,2022,7187,114,automatic,gasoline,34990
+Volkswagen,Sharan,2022,17183,150,automatic,gasoline,38950
+Volkswagen,Arteon,2017,92500,239,automatic,diesel,28880
+Volkswagen,Tiguan,2020,28519,190,automatic,diesel,41360
+Volkswagen,T6,2018,50928,150,automatic,diesel,34990
+Volkswagen,Tiguan,2020,15702,190,automatic,gasoline,36380
+Volkswagen,Golf,2022,5919,150,manual,gasoline,32990
+Volkswagen,Golf,2018,14967,136,automatic,electric,28900
+Volkswagen,Golf,2017,76266,116,manual,diesel,15400
+Volkswagen,Tiguan,2019,55046,150,manual,diesel,30485
+Volkswagen,Arteon,2019,51400,272,automatic,gasoline,40930
+Volkswagen,Caddy,2022,5000,122,manual,diesel,29990
+Volkswagen,T6,2017,67450,102,manual,diesel,30643
+Volkswagen,T6 Caravelle,2021,22811,150,automatic,diesel,50950
+Volkswagen,T6 Multivan,2021,19440,150,automatic,diesel,63950
+Volkswagen,Arteon,2021,21452,320,automatic,gasoline,55990
+Volkswagen,Tiguan,2019,56990,190,automatic,diesel,33880
+Volkswagen,up,2020,59400,65,manual,gasoline,12980
+Volkswagen,T-Roc,2021,10609,150,automatic,gasoline,30390
+Volkswagen,Tiguan,2021,8900,150,automatic,diesel,45427
+Volkswagen,Golf Variant,2018,65705,116,automatic,diesel,17990
+Volkswagen,Golf Variant,2021,26164,150,automatic,diesel,32444
+Volkswagen,T-Roc,2020,32851,150,manual,gasoline,26925
+Volkswagen,Arteon,2020,0,320,automatic,gasoline,70302
+Volkswagen,Tiguan,2022,1000,200,automatic,diesel,64900
+Volkswagen,Polo,2022,8,95,manual,gasoline,20290
+Volkswagen,Caddy,2021,6990,102,manual,diesel,33490
+Volkswagen,Tiguan,2022,7096,150,automatic,gasoline,35020
+Volkswagen,Tiguan,2021,41100,150,automatic,diesel,38490
+Volkswagen,T-Roc,2022,3000,150,automatic,gasoline,36395
+Volkswagen,Passat Variant,2019,45990,190,automatic,diesel,28930
+Volkswagen,Golf,2019,8,300,automatic,gasoline,48580
+Volkswagen,up,2021,13963,83,automatic,electric,22949
+Volkswagen,Touran,2021,23000,150,manual,gasoline,27490
+Volkswagen,T-Roc,2021,14003,116,manual,diesel,24990
+Volkswagen,Tiguan,2021,29699,150,automatic,gasoline,32925
+Volkswagen,Passat Variant,2018,60000,150,automatic,diesel,25281
+Volkswagen,Golf,2022,1100,200,automatic,diesel,44950
+Volkswagen,Golf,2022,0,131,manual,gasoline,33500
+Volkswagen,Caddy,2018,50211,102,automatic,diesel,25610
+Volkswagen,T-Roc,2021,7730,150,automatic,gasoline,34380
+Volkswagen,T-Roc,2021,0,110,manual,gasoline,27990
+Volkswagen,Sharan,2022,14700,150,automatic,gasoline,44990
+Volkswagen,Golf,2021,11529,110,manual,gasoline,24911
+Volkswagen,Golf Variant,2019,36320,116,automatic,diesel,20790
+Volkswagen,Polo,2019,39950,95,automatic,gasoline,17530
+Volkswagen,T-Roc Cabriolet,2022,0,150,automatic,gasoline,40490
+Volkswagen,Touran,2021,6600,122,manual,diesel,33280
+Volkswagen,Passat Variant,2022,19500,150,automatic,diesel,39440
+Volkswagen,Tiguan,2018,40236,150,manual,diesel,24940
+Volkswagen,Golf,2021,25230,300,automatic,gasoline,40820
+Volkswagen,T6,2021,17475,110,manual,diesel,35995
+Volkswagen,T-Roc,2021,7400,116,manual,diesel,29980
+Volkswagen,Golf,2022,25910,150,automatic,diesel,27860
+Volkswagen,Golf Variant,2019,87198,150,automatic,diesel,19322
+Volkswagen,Polo,2022,10,207,automatic,gasoline,31490
+Volkswagen,Golf Variant,2019,28915,116,manual,diesel,19880
+Volkswagen,Tiguan,2019,0,245,automatic,gasoline,63701
+Volkswagen,Golf Variant,2019,52865,150,manual,gasoline,21430
+Volkswagen,T6 Multivan,2022,6200,150,automatic,diesel,72240
+Volkswagen,Golf,2019,24980,150,automatic,gasoline,26930
+Volkswagen,Polo,2021,7501,150,manual,gasoline,26696
+Volkswagen,Arteon,2021,10,320,automatic,gasoline,75635
+Volkswagen,Golf,2022,9238,200,automatic,diesel,38977
+Volkswagen,Tiguan,2019,28814,150,automatic,gasoline,26949
+Volkswagen,Multivan,2021,6530,110,manual,diesel,48910
+Volkswagen,Passat Variant,2020,19549,190,automatic,diesel,37490
+Volkswagen,Caddy,2020,0,102,manual,diesel,29690
+Volkswagen,Tiguan,2020,0,190,automatic,gasoline,48990
+Volkswagen,Golf,2021,14250,245,automatic,gasoline,42210
+Volkswagen,T-Roc,2021,6429,150,automatic,diesel,35995
+Volkswagen,Golf Sportsvan,2019,34755,116,automatic,gasoline,22930
+Volkswagen,Golf,2022,11550,150,manual,gasoline,26440
+Volkswagen,T-Cross,2022,19979,110,automatic,gasoline,27980
+Volkswagen,T-Roc,2021,9235,110,manual,gasoline,22970
+Volkswagen,Polo,2021,0,110,automatic,gasoline,28590
+Volkswagen,Golf,2017,62340,125,automatic,gasoline,18424
+Volkswagen,T6 Multivan,2021,26762,150,automatic,diesel,58970
+Volkswagen,Polo,2022,50,95,manual,gasoline,22890
+Volkswagen,Tiguan,2020,32122,190,automatic,diesel,39990
+Volkswagen,T-Roc,2021,12576,110,manual,gasoline,26990
+Volkswagen,Polo,2019,21079,95,automatic,gasoline,17490
+Volkswagen,T6 Caravelle,2017,33310,102,manual,diesel,33900
+Volkswagen,Tiguan,2019,109880,190,automatic,diesel,33450
+Volkswagen,Golf Sportsvan,2017,80127,125,automatic,gasoline,18890
+Volkswagen,Golf,2019,33294,245,automatic,gasoline,26450
+Volkswagen,Tiguan,2021,30648,150,automatic,diesel,36930
+Volkswagen,ID.3,2021,20500,204,automatic,electric,40840
+Volkswagen,ID.3,2021,15300,204,automatic,electric,38530
+Volkswagen,Golf,2022,3432,131,manual,gasoline,26450
+Volkswagen,Golf,2020,40468,290,automatic,gasoline,33960
+Volkswagen,T6 Multivan,2022,9238,110,manual,diesel,45850
+Volkswagen,T6 Multivan,2021,21696,150,automatic,diesel,61555
+Volkswagen,Tiguan,2021,7690,245,automatic,gasoline,50930
+Volkswagen,T7 Multivan,2022,1200,150,automatic,Hybrid - gasoline,86979
+Volkswagen,T6 Multivan,2018,87400,150,automatic,diesel,38790
+Volkswagen,up,2017,52169,60,manual,gasoline,8625
+Volkswagen,Golf,2017,10,200,automatic,diesel,49320
+Volkswagen,T-Roc,2022,9851,116,manual,diesel,32470
+Volkswagen,Caddy,2022,0,102,manual,diesel,31176
+Volkswagen,Caddy,2022,7957,122,automatic,diesel,38450
+Volkswagen,Tiguan,2018,48300,239,automatic,diesel,37790
+Volkswagen,Crafter,2022,100,140,manual,diesel,59112
+Volkswagen,T6,2022,0,110,manual,diesel,40954
+Volkswagen,Arteon,2022,0,156,automatic,gasoline,60478
+Volkswagen,Tiguan,2020,31390,150,automatic,gasoline,35790
+Volkswagen,Golf Variant,2020,60711,116,manual,gasoline,19491
+Volkswagen,Golf,2018,26790,150,manual,gasoline,22930
+Volkswagen,Polo,2021,20136,95,automatic,gasoline,20450
+Volkswagen,Golf,2018,17450,110,manual,gasoline,16890
+Volkswagen,T-Cross,2021,10086,150,automatic,gasoline,34290
+Volkswagen,Golf,2020,13647,150,manual,gasoline,24780
+Volkswagen,Touran,2019,72850,116,automatic,diesel,26440
+Volkswagen,Caddy,2021,20635,114,automatic,gasoline,32900
+Volkswagen,T6,2022,125,110,manual,diesel,38690
+Volkswagen,Golf,2022,10262,150,automatic,Hybrid - gasoline,39990
+Volkswagen,T-Cross,2022,10,110,automatic,gasoline,27895
+Volkswagen,T6 Kombi,2022,13293,150,automatic,diesel,46700
+Volkswagen,T6,2022,150,110,manual,diesel,38950
+Volkswagen,Polo,2022,2000,95,automatic,gasoline,23900
+Volkswagen,Caddy,2022,1051,102,manual,diesel,30600
+Volkswagen,T-Roc,2021,12425,150,automatic,gasoline,31410
+Volkswagen,Passat Variant,2021,29764,150,automatic,diesel,39930
+Volkswagen,Polo,2020,21713,200,automatic,gasoline,22180
+Volkswagen,Tiguan,2022,10329,150,automatic,gasoline,39840
+Volks
