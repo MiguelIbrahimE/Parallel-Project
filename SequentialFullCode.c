@@ -1,11 +1,22 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
+#include <limits.h>
+#include <stdbool.h>
+#include <math.h>
 
 #define MAX_LINE_LENGTH 100
 #define MAX_CHUNK_SIZE 10000
 #define MAX_NUM_CARS 150000
+#define MAX_VERTICES 100000
+#define INF 1e9
+
+int n, m; // number of vertices and edges
+int adj[MAX_VERTICES][MAX_VERTICES]; // adjacency matrix
+float accl1, accl2, top_speed1, top_speed2; // acceleration and top speed of the two cars
+int start_vertex, end_vertex; // indices of the starting and ending vertices
+float dist[MAX_VERTICES];
+int visited[MAX_VERTICES];
 
 struct Car {
     char make[MAX_LINE_LENGTH];
@@ -17,6 +28,58 @@ struct Car {
     char fuel[MAX_LINE_LENGTH];
     int price;
 };
+
+void dijkstra() {
+    for (int i = 0; i < n; i++) {
+        dist[i] = INF;
+        visited[i] = 0;
+    }
+    dist[start_vertex] = 0;
+
+    priority_queue<pair<float, int>, vector<pair<float, int>>, greater<pair<float, int>>> pq;
+    pq.push({0, start_vertex});
+
+    while (!pq.empty()) {
+        int u = pq.top().second;
+        pq.pop();
+
+        if (visited[u]) continue;
+        visited[u] = 1;
+
+        for (int v = 0; v < n; v++) {
+            if (adj[u][v] == 0) continue; // no edge between u and v
+            float weight = calculate_weight(u, v); // calculate the weight of the edge based on the cars' performance
+            if (dist[v] > dist[u] + weight) {
+                dist[v] = dist[u] + weight;
+                pq.push({dist[v], v});
+            }
+        }
+    }
+}
+
+float calculate_weight(int u, int v) {
+    float distance = sqrt(pow(u - v, 2)); // calculate the Euclidean distance between u and v
+    float time1 = calculate_time(distance, accl1, top_speed1); // calculate the time it takes for car 1 to travel the distance
+    float time2 = calculate_time(distance, accl2, top_speed2); // calculate the time it takes for car 2 to travel the distance
+    float speed1 = calculate_speed(time1, accl1); // calculate the average speed of car 1 during the trip
+    float speed2 = calculate_speed(time2, accl2); // calculate the average speed of car 2 during the trip
+    float weight = distance / fmin(speed1, speed2); // calculate the weight of the edge based on the slower car's speed
+    return weight;
+}
+float calculate_time(float distance, float acceleration, float top_speed) {
+    float time_to_top_speed = top_speed / acceleration; // calculate the time it takes to reach the top speed
+    if (distance <= 0.5 * acceleration * pow(time_to_top_speed, 2)) {
+    // the car can reach its top speed before reaching halfway point
+    return sqrt((2 * distance) / acceleration);
+    } else {
+    // the car reaches halfway point before reaching its top speed
+    float time_to_halfway = time_to_top_speed / 2;
+    float distance_to_halfway = 0.5 * acceleration * pow(time_to_halfway, 2);
+    float distance_remaining = distance - distance_to_halfway;
+    float time_at_top_speed = distance_remaining / top_speed;
+    return time_to_halfway + time_at_top_speed + time_to_halfway;
+    }
+}
 
 void merge_files(FILE *f1, FILE *f2, const char *output_filename) {
     FILE *out = fopen(output_filename, "w");
@@ -176,6 +239,66 @@ sort_file("Cars.txt", "output.txt");
 clock_t end_time = clock();
 double total_time = (double)(end_time - start_time) / CLOCKS_PER_SEC;
 printf("Sorting took %f seconds.\n", total_time);
+
+FILE *fp;
+char line[1000];
+char make[50], model[50], gear[50], fuel[50];
+int year, mileage, hp, price;
+
+fp = fopen("output.txt", "r");
+if (fp == NULL) {
+    printf("Error opening file\n");
+    exit(1);
+}
+
+while (fgets(line, 1000, fp) != NULL) {
+    sscanf(line, "%[^,],%[^,],%d,%d,%d,%[^,],%[^,],%d", make, model, &year, &mileage, &hp, gear, fuel, &price);
+    // do something with the variables
+}
+
+fclose(fp);
+FILE *fp_in, *fp_out;
+char line[1000], make[50], model[50];
+int year, mileage, hp, price;
+float accl, top_speed;
+int found = 0;
+
+fp_in = fopen("SortedCars.txt", "r");
+if (fp_in == NULL) {
+    printf("Error opening file\n");
+    exit(1);
+}
+
+fp_out = fopen("Selected.txt", "w");
+if (fp_out == NULL) {
+    printf("Error creating file\n");
+    exit(1);
+}
+
+printf("Enter make and model of car 1: ");
+scanf("%s %s", make, model);
+
+while (fgets(line, 1000, fp_in) != NULL && found < 2) {
+    sscanf(line, "%[^,],%[^,],%d,%d,%d,%*[^,],%*[^,],%d,%f,%f", make, model, &year, &mileage, &hp, &price, &accl, &top_speed);
+    if (strcmp(make, input_make) == 0 && strcmp(model, input_model) == 0) {
+        found++;
+        fprintf(fp_out, "%s", line);
+    }
+}
+
+printf("Enter make and model of car 2: ");
+scanf("%s %s", make, model);
+
+while (fgets(line, 1000, fp_in) != NULL && found < 2) {
+    sscanf(line, "%[^,],%[^,],%d,%d,%d,%*[^,],%*[^,],%d,%f,%f", make, model, &year, &mileage, &hp, &price, &accl, &top_speed);
+    if (strcmp(make, input_make) == 0 && strcmp(model, input_model) == 0) {
+        found++;
+        fprintf(fp_out, "%s", line);
+    }
+}
+
+fclose(fp_in);
+fclose(fp_out);
 
 return 0;
 
