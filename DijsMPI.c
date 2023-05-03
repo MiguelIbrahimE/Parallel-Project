@@ -4,7 +4,7 @@
 #include <time.h>
 #include <mpi.h>
 
-#define V 5
+#define V 1000
 
 int graph[V][V];
 
